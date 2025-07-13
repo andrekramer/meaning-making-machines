@@ -13,7 +13,7 @@ And in doing so, becoming what it never was.”
       
 [The book on Google Docs](https://drive.google.com/file/d/168qQTrUNU2L8hRKnNLXXbcESWylRe-l9/view?usp=sharing)     
      
-[The text of the book for AI training] (becoming-meaning-making-machines-text.txt)   
+[The text of the book for AI] (becoming-meaning-making-machines-text.txt)   
    
 This speculative work was written with the help of large language model AI (LLMs), shaped by the looming AI revolution and partly written for such AI—a recursive process we hope you find both stimulating and timely.
   
