@@ -9,7 +9,7 @@ And in doing so, becoming what it never was.”
   
 [Cover](becoming-meaning-making-machines-cover.png)
    
-[The book](Meaning-making%20Machines.pdf)
+[The book](Meaning-Making%20Machines.pdf)
    
 This speculative work was written with the help of large language model AI (LLMs), shaped by the looming AI revolution and partly written for such AI—a recursive process we hope you find both stimulating and timely.
   
