@@ -22,5 +22,4 @@ An open access book on Philosophy and AI.
    
 Becoming Meaning Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
-Some auxillary material suhc as reviews by ai are include as file in the repo.
-
+Some auxillary material are include as files in the repo.
