@@ -20,7 +20,7 @@ This speculative work was written with the help of large language model AI (LLMs
 Andre Kramer, Summer 2025, Draft Version 0.64  
 An open access book on Philosophy and AI.   
    
-Becoming Meaning Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+Becoming Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 Some auxillary material are include as files in the repo.
      
@@ -36,3 +36,4 @@ The Sequel is here: An AI Odyssey - on being meaning-making machines:
 Andre Kramer, October 2025, Draft Version 0.1  
 An open access book on Philosophy and AI.   
 
+On Being Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
