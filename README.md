@@ -31,6 +31,8 @@ The Sequel is here: An AI Odyssey - on being meaning-making machines:
 
 [The AI Odyssey on GitHub](An%20AI%20Odyssey.pdf)
 
+[The AI Odyssey on Google Docs](https://drive.google.com/file/d/1yHU83LZ3l1EfkEizNunoWzlLbCGvNPSn/view?usp=sharing)
+
 Andre Kramer, October 2025, Draft Version 0.1  
 An open access book on Philosophy and AI.   
 
