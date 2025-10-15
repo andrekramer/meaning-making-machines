@@ -25,7 +25,7 @@ Becoming Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC B
 Some auxillary material are include as files in the repo.
      
      
-#UPDATE!!!    
+# UPDATE!!!    
       
 The Sequel is here: An AI Odyssey - on being meaning-making machines:
 
