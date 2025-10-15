@@ -23,3 +23,11 @@ An open access book on Philosophy and AI.
 Becoming Meaning Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 Some auxillary material are include as files in the repo.
+
+The Sequel is here An AI Odyssey - on being meaningi-making machines:
+
+[The AI Odyssey book on GitHub](An%20AI%20Odyssey.pdf)
+
+Andre Kramer, October 2025, Draft Version 0.1  
+An open access book on Philosophy and AI.   
+
