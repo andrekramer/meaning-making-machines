@@ -53,7 +53,7 @@ A series of posts on the R rule culminating (as part 1) in a Geometric interprea
 
 [The R rule posts on GitHub](The%20R%20Rule.pdf)
 
-[The R rule posts on Google Docs](https://drive.google.com/file/d/1y6fvqVwfKScK7Qjif50y7F3eVFMMxkPb/view?usp=sharing)
+[The R rule posts on Google Docs](https://drive.google.com/file/d/1_0Hgdmqu8AFoadUFA0rsgsdRDj_MGqMg/view?usp=sharing)
 
      
 Andre Kramer, October 2025, Draft Version 0.1  
