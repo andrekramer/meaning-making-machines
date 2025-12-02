@@ -47,8 +47,16 @@ The synthesis isn't just philosophical poetry - it provides testable architectur
 Most AI safety work asks "how do we control intelligence?" This asks: "How do we build intelligence that can control itself through recursive self-critique?" - making incompleteness and opposition fundamental, not accidental.
 
     
+# R rule posts
+
+A series of posts on the R rule culminating (as part 1) in a Geometric interpreation of a minimal self as a Rotor.
+
+(The R rule posts on GitHub)[The%20R%20Rule.pdf]
+
+[The R rule posts n Google Docs](https://drive.google.com/file/d/1yHU83LZ3l1EfkEizNunoWzlLbCGvNPSn/view?usp=sharing)
+
      
 Andre Kramer, October 2025, Draft Version 0.1  
 An open access book on Philosophy and AI.   
 
-On Being Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+https://drive.google.com/file/d/1uu6QtYVozTSJzioFU1lBQ6zBl7r93TnJ/view?usp=sharingOn Being Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
