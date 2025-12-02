@@ -51,7 +51,7 @@ Most AI safety work asks "how do we control intelligence?" This asks: "How do we
 
 A series of posts on the R rule culminating (as part 1) in a Geometric interpreation of a minimal self as a Rotor.
 
-(The R rule posts on GitHub)[The%20R%20Rule.pdf]
+[The R rule posts on GitHub](The%20R%20Rule.pdf)
 
 [The R rule posts n Google Docs](https://drive.google.com/file/d/1yHU83LZ3l1EfkEizNunoWzlLbCGvNPSn/view?usp=sharing)
 
