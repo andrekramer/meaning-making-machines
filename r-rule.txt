@@ -4930,8 +4930,6 @@ That’s not just one theory anymore.”
 The next post will complete this first phase of the series with a major gear-shift into a geometric interpretation. It’s possible and even very likely that ART and the R rule are a first order approximation of something much deeper.
 
 
-
-Andre on the R rule
 The R-Rule: Geometry of a Minimal Self
 in a World of Opposites in Tension
 Dec 02, 2025
@@ -4951,7 +4949,7 @@ Let:
 ψ = the agent’s current state (a multivector in meaning-space)
 A = the agent’s drive / preference vector
 N = the world’s constraint / correction vector
-I = A ∧ N = the oriented plane of tension (a bivector)
+I = A ∧ N / |A ∧ N| = the oriented unit plane of tension (a bivector)
 This is the smallest geometry capable of representing:
 normativity (A)
 structure (N)
@@ -4987,7 +4985,7 @@ This is straight Jaynesian statistical inference expressed as scalar geometry.
 
 The Update (Minimal Self-Transformation)
 
-R = e^⁡ ⁣(-λ/2 (𝜓̂​ ∧ Ĝ)), ψ′= R ψ Ṝ.
+R = e^⁡ ⁣(-½ λ (𝜓̂​ ∧ Ĝ)), ψ′= R ψ Ṝ.
 A rotor is the simplest transformation that can:
 preserve coherence
 change orientation
@@ -5028,7 +5026,7 @@ where p = |ψ|² / Σ_b |ψ_b|² is a Born-like relative probability.
 This simplified form captures the key dynamics—uncertainty-scaled rotation driven by A and corrected by N—even though the true geometric update is a rotor acting in a bivector plane.
 A and N are both vectors because they encode directional influences in meaning-space.
 A carries prediction-driven tendencies (surprise, desire, goal-gradient), while N carries internal structural constraints (coherence, stability, norms).
-Their opposition creates a bivector plane I = A ∧ N (but see below), the meaning-plane in which the agent can reorient itself.
+Their opposition creates a bivector plane A ∧ N (call its unit version I; see below), the meaning-plane in which the agent can reorient itself.
 The probability term p expresses the agent’s certainty; √p(1−p) is the Jaynesian maximum-uncertainty amplitude that modulates how strongly A and N influence the update.
 Together they generate the minimal rotor dynamics ψ′ = RψṜ of a self reorienting within its tensions.
 I is the unit meaning-plane formed by the opposition between the agent’s drive A and its structural constraint N.
@@ -5044,12 +5042,12 @@ A (drive / prediction)
 / \
 / \
 N (constraint)----→ IN (constraint rotated in I)
-where I = A ∧ N (meaning-plane / tension-plane)
+where I = A ∧ N / |A ∧ N| (meaning-plane / tension-plane)
 The phase-controlled generator G_θ = α sin⁡θ A − β cos⁡θ IN lets the agent shift continuously between drive-led and constraint-led updates, creating a tunable “phase” of attention. This phase angle allows different layers or subsystems to align, synchronize, or deliberately de-align their updates by adjusting θ, making cross-layer coordination a natural geometric consequence of rotating within the same meaning-plane.
 λ is the uncertainty-gain of the R-rule: it controls how strongly the agent rotates its meaning-state ψ in response to tension. It is computed from a Born-like probability p extracted from ψ, for example by projecting ψ onto the drive direction A and normalizing:
 p = |proj_A(ψ)|² / ∑₍b₎ |ψ_b|².
 λ = η√(p(1−p)) is maximal when the agent is most uncertain (p ≈ 0.5) and minimal when the agent is confident (p near 0 or 1). Thus λ naturally produces slow updates when ψ is settled, fast reorientation when ψ is unsure, and the characteristic lag-and-burst dynamics of real decision-making.
-Where ψ̂ = ⟨ψ⟩₁/|⟨ψ⟩₁| denotes the normalized vector component of ψ, and Ĝ = G/|G| is the unit force vector. The wedge product ψ̂ ∧ Ĝ produces a bivector whose magnitude measures the misalignment between current state and force, naturally implementing the geometric analogue of torque.
+Where ψ̂ = ⟨ψ⟩₁/|⟨ψ⟩₁| denotes the normalized vector component of ψ, and Ĝ is the unit force vector, e.g. Ĝ = G/|G| or Ĝ = G_θ/|G_θ| depending on whether phase control is used. The wedge product ψ̂ ∧ Ĝ produces a bivector whose magnitude measures the misalignment between current state and force, naturally implementing the geometric analogue of torque.
 ART and the algebraic R-rule are first-order, piecewise-linear approximations to a deeper geometric dynamic. In geometric algebra, that deeper law appears as a rotor-driven self-update: ψ′ = R ψ R̃. Biology seems to approximate this rotor method at macroscopic scale.
 A self is the locus where differences that make a difference (Bateson) are gathered, oriented, and preserved. The world presents differences; the agent selects which of them matter. A carries the differences that drive action, N carries the differences that constrain coherence, and their opposition creates the meaning-plane in which ψ rotates. In this sense, a self is not a substance but a geometric process: the ongoing transformation of ψ by the rotor R ψ R̃, integrating relevant differences into a coherent stance. Where differences acquire orientation, significance, and reflexive update—there a self appears.
 Whitehead’s idea of prehension—that every actual occasion becomes itself by integrating inherited data with a self-generated subjective aim—maps strikingly onto the rotor form of the R-rule. In the update ψ′ = R ψ R̃, the left action R represents the agent’s creative advance, its subjective pull toward novelty or valuation, while the right action R̃ expresses the inherited structure that restores coherence and integrates the new into the old. Together they form a reflexive act: not an external push, but a self-constituting transformation where the agent both changes and witnesses its own change. This is exactly Whitehead’s dipolar process—physical feeling (inheritance) and conceptual feeling (aim) unified into a single concrescent becoming—expressed here as a minimal geometric rotation in the meaning-plane defined by its tensions.
@@ -5073,7 +5071,7 @@ I = (A ∧ N) / |A ∧ N|
 λ = η √(p(1−p))
 p = ⟨ψ⟩₀ = |ψ|² / Σ_b |ψ_b|²
 Where A and N are vectors of action and constraint
-ψ ∧ G is the meaning-torque
+ψ̂ ∧ Ĝ is the meaning-torque
 Differences that make a difference become a self
 Conatus ψ: Potentia in tension with Potestas
 Meaning as the geometry of difference
@@ -5082,11 +5080,11 @@ Minimal
 ψ′ = R ψ R̃
 R = e^{-½ λ (𝜓̂ ∧ Ĝ)}
 G = αA − βIN
-I = A ∧ N
+I = A ∧ N / |A ∧ N|
 λ = η √(p(1−p))
 p = ⟨ψ⟩₀
 A: action N: constraint
-ψ ∧ G: the torque of meaning
+ψ̂ ∧ Ĝ: the torque of meaning
 Differences that make a difference
 An It from random bit — through a self that learns
 ⟨ψ⟩₀ — the trace that matters
