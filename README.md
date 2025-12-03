@@ -55,6 +55,36 @@ A series of posts on the R rule culminating (as part 1) in a Geometric interprea
 
 [The R rule posts on Google Docs](https://drive.google.com/file/d/1Gl9imtOnpUxZPpAM7tHZRDbRlsmHLLOF/view?usp=sharing)
 
+What is a self in the age of artificial intelligence?
+As machines begin to learn, adapt, and act with increasing autonomy, this question is no longer philosophical—it is practical. Understanding agency, meaning, and coherence is essential not just for human psychology, but for the design of intelligent systems that must navigate a complex world.
+
+The R-Rule presents a radically simple answer.
+
+Drawing on geometric algebra, Bayesian inference, and second-order cybernetics, this series develops a minimal mathematical model of a self—one defined not by identity or introspection, but by how it orients itself within opposing demands. In this framework:
+
+Drive and constraint form a plane of tension.
+
+Uncertainty determines how strongly the system turns.
+
+A single rotor equation governs self-updating, coherence, and action.
+
+The result is the smallest structure capable of behaving like a self:
+a system that stabilizes its own meaning, adapts under uncertainty, and commits to decisions.
+
+Across the series, the R-Rule becomes a bridge between disciplines:
+
+In AI, it provides a blueprint for adaptive, reflexive agents that balance goals with changing environments.
+
+In cybernetics, it formalizes how systems maintain coherence while modifying their own control structure.
+
+In philosophy, it offers a geometric answer to questions of identity, intention, and meaning.
+
+In cognitive science, it models how simple mechanisms can produce rich, self-organizing behavior.
+
+Aiming to be clear, precise, and conceptually bold, this work proposes a new standard model of minimal selfhood—one grounded in geometry, informed by information theory, and ready for the era of synthetic minds.
+
+Whether you are an AI researcher, a systems theorist, or simply someone interested in the future of agency, The R-Rule offers a rigorous yet accessible framework for understanding what it means for any system—human or artificial—to be a self embedded in meaning.
+
      
 Andre Kramer, October 2025, Draft Version 0.1  
 An open access book on Philosophy and AI.   
