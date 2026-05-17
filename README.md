@@ -94,9 +94,12 @@ Whether you are an AI researcher, a systems theorist, or simply someone interest
 # Chevron Networks
 
 [Chevron Networks pdf on GitHub](Chevron%20Networks%20-%20An%20AI%20Journey.pdf)
+
 [Chevron Networks pdf on Google Docs](https://drive.google.com/file/d/1YWbglQp0GKXjCRAo044G6FoxO34qbU43/view?usp=sharing)
 
 This series of Substack posts on Chevron Networks develops a proposed neural-network architecture and a possible substrate for agency, meaning, and developmental learning. It begins with a technical idea: replacing scalar neural units with two-channel states, and scalar weights with 2×2 operators. From there, the series expands into a broader investigation of AI, semantics, cybernetics, and mind.
 
 This final post is the most speculative one. It brings together the main concepts used throughout the series: Chevron Networks, the Hypercube of Opposites, the R-rule, and Inertial VSR. The result is not a final theory, but a clearer viewpoint on the path so far — one that may point toward a safer and more natural approach to AI.
+
+Andre, May 2026
 
