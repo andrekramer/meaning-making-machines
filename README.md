@@ -23,7 +23,12 @@ An open access book on Philosophy and AI.
 Becoming Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 Some auxillary material are include as files in the repo.
-     
+
+Andre Kramer, October 2025, Draft Version 0.1  
+An open access book on Philosophy and AI.   
+
+https://drive.google.com/file/d/1uu6QtYVozTSJzioFU1lBQ6zBl7r93TnJ/view?usp=sharingOn Being Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+
      
 # UPDATE!!!    
       
@@ -86,7 +91,12 @@ Aiming to be clear, precise, and conceptually bold, this work proposes a new sta
 Whether you are an AI researcher, a systems theorist, or simply someone interested in the future of agency, The R-Rule offers a rigorous yet accessible framework for understanding what it means for any system—human or artificial—to be a self embedded in meaning.
 
      
-Andre Kramer, October 2025, Draft Version 0.1  
-An open access book on Philosophy and AI.   
+# Chevron Networks
 
-https://drive.google.com/file/d/1uu6QtYVozTSJzioFU1lBQ6zBl7r93TnJ/view?usp=sharingOn Being Meaning-making Machines  © 2025 by Andre Kramer is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+[Chevron Networks pdf on GitHub](Chevron%20Networks%20-%20An%20AI%20Journey.pdf)
+[Chevron Networks pdf on Google Docs](https://drive.google.com/file/d/1YWbglQp0GKXjCRAo044G6FoxO34qbU43/view?usp=sharing)
+
+This series of Substack posts on Chevron Networks develops a proposed neural-network architecture and a possible substrate for agency, meaning, and developmental learning. It begins with a technical idea: replacing scalar neural units with two-channel states, and scalar weights with 2×2 operators. From there, the series expands into a broader investigation of AI, semantics, cybernetics, and mind.
+
+This final post is the most speculative one. It brings together the main concepts used throughout the series: Chevron Networks, the Hypercube of Opposites, the R-rule, and Inertial VSR. The result is not a final theory, but a clearer viewpoint on the path so far — one that may point toward a safer and more natural approach to AI.
+
