@@ -1,0 +1,490 @@
+Andre's Baccalaureus in Arte Ingeniaria
+
+
+Before Computation: Difference, Use, and the A/N Dynamics of Mind
+An update on consciousness, meaning, and the Hypercube of Opposites
+Andre Kramer
+May 27, 2026
+
+“When it looks as if there were no room for such a form between other ones you have to look for it in another dimension. If there is no room here, there is room in another dimension. (It is in this sense too that there is no room for imaginary numbers in the continuum of real numbers. But what this means is: the application of the concept of imaginary numbers is less like that of real numbers than appears from the look of the calculations. It is necessary to get down to the application, and then the concept finds a different place, one which, so to speak, one never dreamed of.)
+
+PHILOSOPHICAL INVESTIGATIONS IIхі 201Θ”
+
+
+
+
+I have been circling around a theory of consciousness for some time. The earlier posts here were deliberately speculative. They leaned heavily on the Hypercube of Alchemical Opposites: the idea that meaning and selfhood arise through recursive traversal of irreconcilable oppositions rather than by resolving them into final synthesis.
+
+Reading Camus’ The Myth of Sisyphus now has made the personal arc clearer. The absurd (Albert Camus says) is not simply meaninglessness. It is the living tension between the human demand for meaning and the world’s refusal to provide final answers. Consciousness, in that frame, is not escape from the absurd but lucid traversal of it: the capacity to remain awake inside an irreconcilable tension without collapsing into denial or despair. That is close to what the Hypercube was trying to name in a more symbolic and structural language.
+
+I still think that captured something important. Conscious life does seem to involve the capacity to hold tensions without prematurely collapsing them. We live between self and world, agency and mechanism, certainty and wonder, individuation and transcendence. The old Hypercube language gave me a symbolic geometry for this.
+
+But I would now speculate about this claim more carefully.
+
+The Hypercube is not (and never really was), by itself, a theory of why consciousness exists. It is better understood as a theory of how awareness becomes structured into mind: how differences become salient, how salience becomes use, how use becomes memory, how memory becomes norm, and how norm becomes action.
+
+This is a shift from a theory of consciousness as such to a theory of structured mind.
+
+Bohm helps clarify the distinction. In his language, thought is not the whole of mind. Thought is a conditioned, fragmenting, explicating process: it cuts, names, compares, remembers, abstracts, and projects. It is necessary, but it can mistake its fragments for reality. Mind, by contrast, points toward a wider field of awareness, attention, wholeness, and unfolding order in which thought occurs. So the question is not only how thought operates, but how awareness becomes structured enough to think without being reduced to thought.
+
+In that sense, this post is not trying to explain consciousness by thought. It is asking how mind becomes patterned into thought, meaning, action, and self while still leaving room for the deeper wholeness that thought can only partially explicate.
+
+That distinction matters. I do not think raw awareness, or phenomenological presence, is explained by a functional architecture. Mathematical models can describe relations, transformations, selections, constraints, and reports. They can describe how a system distinguishes, filters, remembers, acts, and recursively stabilizes a self. But they do not explain why there is something it is like.
+
+My preferred stance is therefore a loose dual-aspect monism. Mind and matter are not two separate substances. Nor is consciousness ghostly software running on biological hardware. Rather, reality may have both a structural, describable aspect and an experiential, inward aspect. The model belongs mostly to the structural side. It may describe how awareness becomes organized, but not why awareness exists in the first place.
+
+That is the guardrail for what follows.
+
+AI Models (LLMs etc) Begin After the Cut
+The brain is often described as a computer. I understand the appeal. I spent a career in software architecture, distributed systems, and computational design. Computation is not the enemy here. Functional descriptions are indispensable. At the right level of abstraction, organisms compute, regulate, predict, classify, and control.
+
+But computation is a level of description, not the deepest metaphor.
+
+The computer metaphor usually begins with already-discrete bits, symbols, addresses, instructions, and memory locations. The cut has already been made. A bit is already 0 or 1. A token is already a token. A variable has already been named. A function already has a domain.
+
+Living cognition has a prior problem.
+
+It must help decide what counts as a difference at all.
+
+Before there is calculation, there is distinction. Before there are symbols, there are differences that matter. Before there is language, there is salience, orientation, inhibition, appetite, fear, attraction, familiarity, surprise, and action-readiness.
+
+An AI Model begins after the cut. A living mind participates in making the cut.
+
+That is why the hardware/software metaphor breaks down in biology. In a computer, the same software can often run on different hardware, and the processor is not usually rewritten by the program it executes. In living systems, the substrate changes with use. Memory is not stored in a separate file; it is embodied in altered dispositions. Perception is not input to a neutral processor; it is shaped by posture, metabolism, affect, movement, attention, and expectation.
+
+What looks like software is often retained bodily history. What looks like hardware is plastic organization in motion.
+
+So this is not anti-computation. It is anti-reification of the computer metaphor.
+
+Functionalism can be useful if it is treated as coarse-graining: a description of patterns and capacities at a chosen level. The mistake is to turn that abstraction into an ontology, as if mind were literally software and the brain merely hardware.
+
+Difference in Use
+Gregory Bateson famously defined information as “a difference that makes a difference.” That phrase has become almost too familiar, but it remains profound.
+
+Not every difference matters. A sensory variation, a shadow, a sound, a chemical gradient, a memory fragment, or a word only becomes meaningful if it changes what a system can do.
+
+Wittgenstein sharpens this point. Meaning is not a hidden object behind a sign. Meaning is use.
+
+So Bateson’s phrase can be reframed:
+
+A meaningful difference is a difference in use.
+
+This does not have to mean linguistic use. Language is a late, visible crystallization of a deeper process. Biological use comes first: approach, avoid, grasp, eat, flee, wait, inhibit, attend, repair, remember, signal, bond.
+
+A raw difference becomes meaningful when it changes the field of possible action.
+
+Or more compactly:
+
+A meaningful difference is a changed affordance.
+
+This is the point at which the Hypercube of Opposites becomes less like an abstract symbolic map and more like a living field of use. Oppositions are not just conceptual pairs. They are tensions that matter to an organism: safe/dangerous, near/far, familiar/strange, mine/not-mine, possible/impossible, urgent/open, self/other, act/wait.
+
+The axes are grounded, but not fixed. They arise from body, world, memory, development, culture, and action. They can shift. They can be learned. They can be distorted. They can be healed. They can become traps.
+
+D–N–A: Difference, Norm, Action
+This gives a compact triad:
+
+D→N→A
+
+Not DNA in the literal genetic sense, but as a symbolic compression of living cognition.
+
+D is difference, distinction, division, and even death. It is the cut from continuity.
+
+N is norm, negation, memory, filter, inhibition, constraint, and retained form. It remembers the cut and decides whether it matters.
+
+A is action, appetite, agency, adaptation, and actuality. It expresses the selected difference into the world.
+
+D cuts the world. N remembers the cut. A acts from it.
+
+A and N are the active processes (a dyad), while D is the boundary or “cut” generated and maintained by their interaction.
+
+Life is not computation over pre-given signs. Life is the recursive circuit by which difference is cut from continuity, retained as norm, selected under pressure, and released as action.
+
+This is also where “death” belongs in the D. To make a distinction is to exclude. To choose one action is to let other actions die. To become one self is not to become all selves. Discreteness has a cost. Meaning is not free-floating information. It is difference under the pressure of loss.
+
+A and N Are Not System 1 and System 2
+In an earlier post, I tried to describe meaning through a more functionalist language: System 1 and System 2, feeling and thinking, actor and critic, recursive loops, meta-regulation. I still think that was useful scaffolding. It captured the importance of tension, critique, self-reference, and transformation.
+
+But I now think it was too close to a dual-process picture.
+
+[Breakout: It is important not to collapse A/N into familiar binaries such as System 1/System 2 or left brain/right brain. Those analogies can be suggestive, but they are too coarse and too easily reified. A and N are not two anatomical modules or two cognitive systems. They are two aspects of a living process: A as proposal, action, appetite, and variation; N as norm, memory, inhibition, filtering, and retention. Actor/critic dynamics may appear within this pattern, but actor/critic is a scaffold or implementation motif, not the underlying claim.]
+
+A is not merely fast intuition. N is not merely slow reasoning. That would preserve the wrong split.
+
+Instead, A and N are two aspects of one living process.
+
+A is proposal, appetite, adaptation, attention, action, outward unfolding.
+
+N is norm, negation, memory, inhibition, retained form, inward filtering.
+
+Thought is not a separate faculty sitting above them. Thought is what happens when A is drawn into N strongly enough to become stabilized, delayed, compared, named, corrected, or made shareable.
+
+Thought is A becoming answerable to N.
+
+A reflex is A with little N mediation. A habit is A already shaped by sedimented N. Imagination is A exploring under loosened N. Judgement is A licensed by N. Will is A that has passed through N and still moves.
+
+This is a better frame than System 1/System 2 (or other Actor /Critic metaphor) because it is not two systems. It is a relation, a coupling, a fold, a tension.
+
+There are not two minds, fast and slow. There are different regimes of A/N coupling.
+
+The Chevron as Local Fold
+This is where Chevron Networks enter the picture.
+
+A chevron unit is a two-channel unit. Instead of one scalar state, it has an A-channel and an N-channel. Instead of a scalar weight, the connection can be represented as a 2×2 operator:
+
+[A′N′] = [wAA wAN]
+
+[wNA wNN]
+
+The diagonal terms preserve each channel:
+
+wAA​: A continues A — association, impulse, proposal, momentum.
+
+wNN​: N preserves N — memory, norm, retained structure, inertia.
+
+But the cross-terms are the interesting part:
+
+wAN​: N shapes A — inhibition, permission, steering, relevance.
+
+wNA​: A updates N — learning, surprise, revision, consolidation.
+
+Meaning is not inside A or N. Meaning happens in the cross-coupling.
+
+A chevron is a local fold between proposal and norm. A recurrent Chevron Network (think of successive / recurrent layers of such units) would then model thought as repeated folding:
+
+A→N→A′→N′→⋯
+
+A proposes. N filters. A is revised. N is updated. The revised N changes what A can next propose.
+
+This is what I mean by A leaning into N.
+
+A chevron is a local fold between proposal and norm. A recurrent Chevron Network—utilizing successive layers and recurrent feedback—models thought as repeated folding.
+
+In successive layers, this folding is hierarchical: lower-level sensorimotor proposals are folded with immediate physical constraints, while higher-level layers fold abstract concepts with cognitive norms. In recurrence, this folding is temporal: the output of a fold at one moment becomes the starting point for the next.
+
+This is what I mean by A leaning into N. It is not computation over static symbols. It is the recursive bending of active possibility through retained constraint, repeated across scales of space and time.
+
+Inertial VSR and Selection from Potentiality
+This also connects to Inertial VSR: Variation, Selection, Retention, with inertia.
+
+Variation→Selection→Retention
+
+A generates variation: possible movements, meanings, words, interpretations, actions, and orientations.
+
+N filters them through memory, salience, norm, inhibition, viability, and embodied history.
+
+Selection is the moment where one possible difference becomes actual enough to act from or retain.
+
+Retention folds the selected difference back into N.
+
+Inertia matters because N should not simply chase every new A. Systems without inertia tend to be unstable. A system with too much inertia is rigid. Living intelligence lies between collapse and chaos.
+
+Here I have found the Born rule useful as a formal analogy, not as a literal claim about quantum brains.
+
+In quantum mechanics, the Born rule converts amplitude into probability:
+
+Pi = ∣ψi∣^2
+
+In this framework, a Born-like rule can stand for selection from potentiality. A field of possible states is not yet an actual outcome. Selection converts latent propensity into weighted actuality.
+
+If we write, cautiously,
+
+ψi = A + iN
+
+then A and N are not real versus unreal. N is not “imaginary” in the everyday sense. It is orthogonal: the dimension of constraint, memory, and norm that gives A its direction.
+
+[Breakout: For living systems, a more useful selection image may be:
+
+Pi = ∣Ai∣^2 * F(Ni) / ∑j ∣Aj∣^2 * F(Nj)
+
+where F(Ni) represents norm-fit, viability, salience, inhibition, or retained constraint.
+
+This selection rule is deliberately Bayesian-shaped. A generates candidate variations; N acts as a prior or viability filter; the denominator normalizes the competition across alternatives. The Born-like element is the squaring of the proposal amplitude, which converts potential into positive weight. But the living system is not pure amplitude-selection: it is amplitude filtered by retained norm. In short, selection is not the strongest A winning. It is A weighted by N and retained through Inertial VSR.
+
+Variation: Ai​
+
+Selection: Pi ​∝ ∣Ai​∣^2 * F(Ni​)
+
+Retention: Nt+1 = (1−λ)Nt + λRi
+
+]
+
+Selection is not simply the strongest impulse winning.
+
+Selection is A weighted by N.
+
+That gives a compact summary of the larger process:
+
+The R rule rotates potential.
+The Born-like rule selects actuality.
+Inertial VSR retains the selected difference.
+Chevron dynamics repeats this locally.
+
+Again, this is analogy and architecture, not established neuroscience.
+
+The Imaginary Is Not Unreal
+The imaginary dimension matters here because it prevents us from flattening mind onto one line.
+
+Wittgenstein’s remarks on imaginary numbers (the post-starting quote from his Philosophical Investigations) are helpful. If there is no room for a concept in one dimension, look for the dimension in which it has use. The imaginary number is not hiding on the real line. It belongs to another application.
+
+Likewise, N is not another A-like object. Intention is not a little inner object accompanying action. Meaning is not a private object behind a word. Will is not a ghostly push beside movement.
+
+These are dimensional mistakes.
+
+If we write:
+
+ψ = A + iN
+
+we should not hear:
+
+real action plus unreal norm.
+
+We should hear:
+
+action plus an orthogonal dimension of constraint and orientation.
+
+Euler’s formula gives the image:
+
+e^ix = cos(⁡x) + i sin⁡(x)
+
+The imaginary dimension is what allows growth to become rotation. It is what turns linear becoming into phase, rhythm, recurrence, and return.
+
+So the imaginary is not the opposite of reality. It is the sign that reality is not exhausted by the real line.
+
+For mind, this means that action alone is not enough. A needs the orthogonal dimension of N: memory, inhibition, relevance, norm, body, world, and self-maintenance.
+
+Will is not brute force. Will is A (representation) that has passed through N and still moves.
+
+Bundles of Difference and Experience
+This leads to a looser form of dual-aspect monism.
+
+I do not want to say that experience is built from atomistic qualia: red quale, pain quale, taste quale, and so on. That feels too much like turning experience into private objects.
+
+Instead, an experience may correspond to an attended bundle of grounded differences.
+
+A feeling is not a quale-atom. It is a selected constellation:
+
+safe / dangerous,
+
+near / far,
+
+tense / relaxed,
+
+mine / not-mine,
+
+urgent / open,
+
+familiar / strange,
+
+controlled / helpless,
+
+self / other,
+
+fitting / dissonant,
+
+possible / impossible.
+
+Attention selects and binds such differences into a felt situation.
+
+The structural aspect is the pattern: a dynamic bundle of differences grounded in body, world, memory, and action.
+
+The experiential aspect is what that bundle is like from within.
+
+This does not reduce experience to function. It also does not make experience an ineffable collection of private atoms. It treats particular experiences as structured without pretending that structure explains awareness itself.
+
+In a Nagelian spirit, function cannot explain why there is awareness. But an A/N-VSR picture may help describe how awareness becomes patterned.
+
+Function does not generate the light. It shapes what the light illuminates.
+
+Bohm, Not Perceptronium
+This is why I find Bohm’s implicate and explicate order more congenial than the idea of consciousness as a special “phase of matter.”
+
+Tegmark’s computronium and perceptronium are useful provocations. They ask what matter would have to be like to compute or perceive. But the phase-of-matter metaphor risks treating consciousness as another objective state alongside solids, liquids, plasmas, or computational substrates.
+
+That may blur the category difference between structural description and lived experience.
+
+Bohm offers a better image for dual-aspect monism. Mind and matter are not separate phases, nor is mind software added to matter. They are different unfoldings of a deeper wholeness.
+
+In this language:
+
+N is the enfolded field of retained possibility.
+
+A is unfolding into action.
+
+D is the cut that makes something explicit.
+
+Retention folds selected difference back into the field.
+
+The brain is not a device that constructs experience from data. It is a living filter that allows some enfolded differences to become explicit, actionable, and retained.
+
+That is a metaphor, but I hope a useful one.
+
+Rosch, Embodiment, and Categories as Attractors
+Eleanor Rosch’s work on categorization also fits here. Categories are not usually clean logical boxes defined by necessary and sufficient conditions. They have centres, gradients, prototypes, bodily salience, and use-structures.
+
+A robin may be a more prototypical bird than a penguin. A chair may be more or less chair-like. Meaning is not always binary. It is often graded, embodied, and action-guiding.
+
+This supports the move away from symbol-first cognition.
+
+A category is not first a definition. It is an embodied attractor of use.
+
+The enactive tradition of Varela, Thompson, and Rosch makes the broader point: cognition is not representation of a pre-given world by a detached inner observer. It is the enactment of a world of significance through embodied action.
+
+Chevron dynamics (as opposed frozen LLM weights) would be one possible local architecture for this:
+
+A moves, probes, attends, and acts.
+
+N stabilizes salience, prototypes, norms, and constraints.
+
+Inertial VSR selects and retains usable differences over time.
+
+The world that matters is enacted through this recursive coupling.
+
+[Breakout: Wittgenstein’s warning is that grammar seduces us into objectification. Because nouns behave like names of things, we begin to imagine meanings, intentions, thoughts, and selves as inner objects. But often their reality lies in use, criteria, continuation, correction, and practice. This is a useful guardrail for A/N. A and N should not be reified into modules or substances. They are dimensions of a process: proposal and constraint, unfolding and retention, action and norm. The model is strongest when it resists turning its own abstractions into little inner things.]
+
+Brief contrast with IIT
+Integrated Information Theory has the virtue of taking consciousness seriously as something more than behaviour, report, or computation. But from this framework, IIT can appear too static if read mainly as a measure of integrated structure. Mind is not only integrated information. It is structured change.
+
+What matters is not simply that a system is integrated, but how it changes: how differences arise, how quickly they are selected, how they are retained, and how prior retention alters the next field of possibility. Thought is not a state but a movement. Experience is not merely a configuration but a temporally unfolding process.
+
+In A/N terms, consciousness-as-mind is found less in a snapshot of integration than in the dynamic loop:
+
+At→Nt→At+1→Nt+1
+
+A proposes; N filters; the filtered result changes future A; retained change alters future N. The important quantity is not only structure, but trajectory.
+
+This is why the metaphor of 'symbolic entropy'—which I used in earlier essays to describe the shifting complexity of mental states—still has some value, if treated carefully. The point was never that consciousness can be reduced to a simple equation, but that mind and thought are temporal: differentiation, recombination, acceleration, slowing, collapse, return. Experience intensifies at inflection points, where the rate of meaning-change itself changes.
+
+it is change, and the rate of change, that matters — because mind is not a thing the brain has, but a process the organism undergoes.
+
+[Breakout: The i-dimension is useful because it lets the model include what is not simply actual but still effective: resonance, repetition, memory, inhibition, and counterfactual possibility. This may bridge the IIT and the following constructor-theory sections. IIT asks about integration; constructor theory asks about possible and impossible transformations. A complex A/N model asks how actual motion is shaped by an orthogonal field of retained and unrealized possibilities. Mind, on this view, is not merely integrated information, but integrated counterfactual resonance unfolding over time.]
+
+Constructor-Filters, Not Software Minds
+Constructor theory is useful here because it treats information physically, not as disembodied software. It asks what transformations are possible or impossible, what can be copied, retained, distinguished, transformed, and used again.
+
+That maps naturally onto this framework.
+
+A living system is not merely a computer executing instructions. It is a constructor-filter: a system that preserves itself by selecting which transformations remain possible.
+
+In A/N terms:
+
+A is constructive outward activity.
+
+N is the filter over possible transformations.
+
+Inertial VSR is the development of retained transformation-capacity.
+
+The brain is less a von Neumann computer than a living constructor-filter — closer, in this respect, to a von Neumann replicator than to a Turing machine.
+
+A Turing machine or stored-program computer executes operations over already defined symbols. A von Neumann replicator, by contrast, must preserve a description, construct a vehicle, copy the description, and maintain the cycle across generations. That is much closer to life: not computation alone, but construction, repair, copying, retention, and self-maintenance.
+
+[Breakout: This also marks a difference from current AI post-training. RLHF, DPO, and related methods can steer a pre-trained model toward preferred behaviours, but they do not by themselves create a developmental system whose proposal-space and norm-space co-evolve over time. In A/N terms, post-training mostly adjusts the behavioural surface after the main representational structure has already formed. Inertial VSR asks for something deeper: fast-changing A, slow-changing N, and a retention mechanism that allows selected differences to reshape future selection without erasing prior structure. The problem is not merely how to (safely) align outputs, but how to grow a system whose constraints, habits, and possibilities develop together.]
+
+It computes, yes. But computation is not the deepest metaphor.
+
+From Autonomic Polarity to Individuation and Transcendence
+The same pattern appears at different scales.
+
+At the bodily base, the autonomic nervous system is organized around counteracting tendencies: sympathetic mobilization and parasympathetic restoration. The organism must act, spend, seek, defend, and engage. It must also restore, digest, conserve, repair, and return.
+
+At the highest developmental level, a similar apparent polarity appears as individuation and transcendence.
+
+Individuation is becoming a distinct, coherent self.
+
+Transcendence is going beyond the self toward wider wholeness.
+
+Too much individuation becomes rigidity, isolation, and egoic closure. Too much transcendence becomes dissolution, vagueness, or escape from responsibility.
+
+Intelligence may span this whole arc:
+
+mobilization/restoration→proposal/constraint→variation/selection/retention→action/reflection→individuation/transcendence
+
+Human intelligence is not just problem-solving. It is recursive regulation of difference from body to spirit.
+
+Improving on my earlier Speculation
+My earlier functionalist/processual posts pushed actor/critic loops, System 1/System 2, symbolic scaffolding, dream critique, and recursive meaning-making and even process philosophy as far as I could take them.
+
+I still think much of that remains useful as a theory of meaning. Meaning can emerge through recursive tension. Dreams or psychedelics may indeed loosen over-stabilized patterns and reintroduce symbolic plasticity. Counterfactuals may act as synthetic critics. Inner and outer worlds may fold into one another through imagination, memory, regret, and anticipation.
+
+But I would now more carefully narrow the claim.
+
+Recursive functional loops may explain aspects of mind: attention, self-modeling, inhibition, agency, narrative, and meaning. They do not explain raw awareness.
+
+The old question was:
+
+Can recursive oppositional loops generate consciousness?
+
+The new question is:
+
+If awareness is fundamental or irreducible, how do recursive oppositional loops structure it into mind?
+
+That shift — from generation to structuring — is the philosophical correction.
+
+What This now Claims, and What It Does Not
+This argument claims that cognition begins before symbolic computation. Living systems must create usable distinctions from continuous flux. Meaning is difference in use. A/N dynamics models proposal and norm as coupled dimensions. Chevron units provide a possible local mechanism for that coupling. Inertial VSR describes how selected differences are retained over time. A Born-like rule can serve as a formal analogy for selection from potentiality. Will is action (on representation) that has passed through norm-filtered selection and still moves.
+
+But this argument does not claim that brains literally operate by quantum wavefunctions. It does not claim that the Born rule literally governs thought. It does not claim that Bohm’s implicate order is established neuroscience. It does not claim that Chevron Networks solve consciousness. It does not claim that language is the ground of cognition. It does not claim that A/N is simply System 1/System 2 renamed. It does not claim that constructor theory already contains a theory of mind.
+
+Most importantly, it does not claim to derive awareness from structure.
+
+The stronger and more careful claim is this:
+
+Consciousness may be fundamental, but mind is structured consciousness — awareness folded through difference, filtered by norm, selected through action, and retained as self.
+
+Closing: After the Cut
+The deepest question is not how a system computes over symbols, but how a system comes to have symbols at all.
+
+How does continuity become difference?
+
+How does difference become use?
+
+How does use become norm?
+
+How does norm become action?
+
+How does action return to reshape the field from which it came?
+
+This is the space where Chevron dynamics belongs: before language, before software, before computation over given tokens.
+
+LLMs begin after the cut.
+
+Living mind begins by making, selecting, retaining, opposing, and acting from the cut.
+
+Difference becomes meaning when it changes use.
+
+Use becomes thought when A leans into N.
+
+Selection becomes will when A passes through N and still moves.
+
+And consciousness — if it is fundamental — becomes mind when it is folded through all of this without being exhausted by any of it.
+
+
+
+
+This remains speculation. But speculation can still be disciplined if it widens the dialogue rather than closes it. Bohm’s own work was, in part, an attempt to move the conversation: to find metaphors and forms of explanation less trapped by fragmentation, mechanism, and inherited categories. That is also the aim here.
+
+The purpose is not to replace current AGI narratives with another totalizing system. It is to select sharper metaphors for our use: difference rather than data, filter rather than processor, constructor rather than computer, norm rather than stored software, action rather than output, mind rather than mere thought. Together these metaphors construct a more extensive picture than current AGI narratives typically allow.
+
+That has been the aim of my personal substack (the R rule’s own), and of my more technical one as well: to widen the dialogue around AI, mind, meaning, and safety. The view developed here seems compatible with a Nagelian form of neutral or dual-aspect monism. It does not claim to solve consciousness. It tries to apply new metaphors as explanatory instruments — not final answers, but better ways to ask what kind of process a mind might be. Better than Sisyphus, perhaps: the stone remains, but the pushing becomes an alchemical reddening — the work by which matter, mind, and meaning are slowly transformed.
+
+Andre with ChatGPT-5.5
+
+May 2026
+
+
+
+
+Thanks for reading Andre's Baccalaureus in Arte Ingeniaria! Subscribe for free to receive new posts and support my work.
+
+Furthermore …
+A 2D Chevron network gives us oppositional processing across a layered surface. A 3D Chevron network would add thickness: memory, retention, recurrence, and embodied depth. It would allow oppositions not merely to be connected, but to fold around one another, forming attractors, cavities, and loops. In 2D, meaning is propagated. In 3D, meaning can circulate, sediment, and return.
+
+The brain’s three-dimensionality is not just anatomical accident. It is a developmental constraint that turns wiring into morphology. A small Chevron experiment cannot reproduce that evolutionary history, but it could test the lower-level principle: whether spatial cost, local modularity, and retained A/N structure improve learning compared with a flat, freely connected network.
+
+Memory challenges a simple filter theory because remembered sensations are not fully present, yet not unfelt. The way out is to treat memory as filtered experience becoming part of the filter. Its felt aspect hitchhikes on partial reactivation: bodily tone, affective salience, sensorimotor echo, and self-continuity. Memory is therefore flatter than perception, but still experiential because it is retention re-entering the present.
+
+Direct sensation is A under strong world constraint; memory is A reactivating under N-retained structure, with weaker external constraint.
+
+A and N can be treated as two dimensions supervening on ordinary spacetime: not physical dimensions, but dimensions of living orientation. A is the vector of proposal, adaptation, and outward movement; N is the vector of retention, constraint, and inward coherence. A self emerges not as a point in either dimension, but as a trajectory through their tension. To become a self is to acquire a characteristic way of leaning into possibility without losing continuity.
+
+
