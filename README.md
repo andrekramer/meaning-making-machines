@@ -103,3 +103,12 @@ This final post is the most speculative one. It brings together the main concept
 
 Andre, May 2026
 
+# Chevron Attention
+
+Summarising my research and experiments so far: from Indra’s Net and the Hypercube of Opposites to Chevron Networks, Chevron Attention, stability–plasticity, and the question of how learning systems can change without losing themselves.
+
+[Chevron Attention pdf on GitHub https://github.com/andrekramer/meaning-making-machines/blob/main/Chevron%20Attention.pdf]
+
+[Chevron Attention pdf on Google Docs https://drive.google.com/file/d/18eNGlQfGZUx6NDeAh8arnqNmLqjTr_8V/view?usp=sharing]
+
+Andre, August 2026
