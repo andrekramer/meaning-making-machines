@@ -109,6 +109,6 @@ Summarising my research and experiments so far: from Indra’s Net and the Hyper
 
 [Chevron Attention pdf on GitHub https://github.com/andrekramer/meaning-making-machines/blob/main/Chevron%20Attention.pdf]
 
-[Chevron Attention pdf on Google Docs https://drive.google.com/file/d/18eNGlQfGZUx6NDeAh8arnqNmLqjTr_8V/view?usp=sharing]
+[Chevron Attention pdf on Google Docs https://drive.google.com/file/d/1uBgwZnDRMI4R7Lnz5klbadgoHjYg3h7p/view?usp=sharing]
 
 Andre, August 2026
