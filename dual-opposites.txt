@@ -1,0 +1,541 @@
+
+Dual City names and Cathedrals
+We may not ever fully know, but perhaps we can see how it opposes itself.
+
+
+
+Foyle books second hand bookshop in Derry
+Last summer, in a second-hand bookshop in Derry, I found a copy of Patrick Suppes’ Probabilistic Metaphysics. There was something appropriately improbable about the encounter.
+
+
+Probabilistic Metaphysics by Patrick Suppes 
+I was born German, learned English and Engineering in Ireland, and have lived for many years in England. And here I was in Derry: an old Gaelic place, itself living with more than one name and identity.
+
+I had also spent years circling questions of opposites, difference and tension, probably quite often through Hermann Hesse and recently his Wanderer. Hesse has him (himself) say:
+
+“There is no center in my life; my life hovers between many poles and counterpoles…. My concern is to hover between many extreme opposites and to be ready when a miracle overtakes me.”
+
+The wanderer does not resolve the poles. He lives between them.
+
+And there was Suppes, unexpectedly waiting on a shelf. And someone with the same question standing before the shelf.
+
+None of this proves anything. An unlikely encounter is still an encounter. But perhaps that is precisely the point (of the Synchronicity). Neither the book nor the new reader was remarkable merely by being there. Something happened in their conjunction: two histories intersected at one particular place and time, and another line of thought followed from it.
+
+Suppes provides a provocative starting point: take probability seriously as part of reality rather than merely as ignorance about a world whose future is already fixed.
+
+The next move is speculative.
+
+Suppose possibilities are not isolated numbers. Suppose they retain relations to one another while they remain possible. They may overlap, differ, reinforce or oppose one another.
+
+Then probability alone may not be enough to describe them. We need both the magnitude of a possibility and its relation to other possibilities.
+
+An inner-product geometry is a natural way of doing this. And once we have such a geometry, Cauchy–Schwarz follows:
+
+|
+⟨
+A
+,
+N
+⟩
+|
+2
+≤
+⟨
+A
+,
+A
+⟩
+⟨
+N
+,
+N
+⟩
+.
+
+Normally this is simply a theorem about vectors. But it permits a metaphysical reading: relation has limits. Identity, overlap, distinction and opposition cannot vary independently.
+
+If unresolved possibilities can combine before an event becomes definite,
+
+Ψ
+=
+A
++
+N
+,
+
+then their combined magnitude is
+
+|
+Ψ
+|
+2
+|
+A
+|
+2
++
+|
+N
+|
+2
++
+2
+Re
+⟨
+A
+,
+N
+⟩
+.
+
+The last term is relational. Depending on the relation between (A) and (N), it can reinforce or suppress the resulting probability.
+
+That is already the mathematical form of interference.
+
+And the same Cauchy–Schwarz geometry, applied to fluctuations rather than alternatives, produces a general uncertainty relation.
+
+That, at least, was the intuition that began to form as I worked my way through Suppes’ book.
+
+This is not yet quantum mechanics. We have not derived the Born rule from first principles, canonical commutation relations, Schrödinger dynamics, particles, fields, space or time. Important physical structure remains to be supplied.
+
+But perhaps the distance is shorter than it first appears.
+
+The immediate question for physics is therefore not whether this little metaphysics can explain everything. It is much narrower:
+
+Starting from a genuinely probabilistic reality whose possibilities retain relational difference, what is the minimum additional structure required before the characteristic mathematics of quantum mechanics follows?
+
+If that programme works, interference and uncertainty would not begin as inexplicable quantum peculiarities. They would arise because possibilities are not independent things waiting to become actual. While still possibles, they stand in relations.
+
+The poles create the difference.
+
+What happens between them remains open.
+
+
+Two Cathedrals facing each other on adjacent hills in Armagh, Ireland
+This summer I visited Armagh. Derry had given me a book in a city with two names; Armagh gave me another image of duality. Two cathedrals, both dedicated to Saint Patrick, stand on neighbouring hills—one Church of Ireland, the other Roman Catholic. They face one another across the city, distinct but sharing a name and a history.
+
+They seem to hover in a tension of peaceful opposition.
+
+Perhaps the poles do not have to disappear. Perhaps their difference is what creates the space between them.
+
+The question is whether understanding might begin there too.
+
+Andre (with ChatGPT-5.6), 
+
+August 2026
+
+Appendix: The Mathematical Sketch
+This is not a derivation of quantum mechanics. It is a sequence of assumptions followed by consequences, intended to make clear exactly where additional physics enters.
+
+1. Begin with fundamental probabilities
+
+Let a possible event (A) have probability
+
+p
+A
+≥
+0.
+
+A Suppes-like probabilistic metaphysics allows us to regard this probability as ontologically significant rather than merely a measure of ignorance.
+
+At this stage we still have ordinary probability theory.
+
+2. Give possibilities relational structure
+
+Now introduce an additional assumption: a possibility is represented not merely by (p_A), but by a vector (A) in an inner-product space such that
+
+p
+A
+=
+|
+A
+|
+2
+.
+
+Likewise,
+
+p
+N
+=
+|
+N
+|
+2
+.
+
+This is already a substantial step. It is not supplied by probability theory alone.
+
+The inner product
+
+⟨
+A
+,
+N
+⟩
+
+then describes a relation between the two possibilities.
+
+3. Cauchy–Schwarz follows automatically
+
+Every positive inner-product space satisfies
+
+|
+⟨
+A
+,
+N
+⟩
+|
+2
+≤
+|
+A
+|
+2
+|
+N
+|
+2
+.
+
+Therefore
+
+|
+⟨
+A
+,
+N
+⟩
+|
+≤
+p
+A
+p
+N
+.
+
+Relational overlap is bounded by the magnitudes of the possibilities themselves.
+
+4. Allow unresolved alternatives to compose
+
+Make a second important assumption:
+
+Ψ
+=
+A
++
+N
+.
+
+That is, alternatives which have not yet become distinguished events combine at the level of their relational representations rather than by simply adding their probabilities.
+
+Now calculate:
+
+ 
+|
+Ψ
+|
+2
+=
+⟨
+A
++
+N
+,
+A
++
+N
+⟩
+ 
+=
+|
+A
+|
+2
++
+|
+N
+|
+2
++
+⟨
+A
+,
+N
+⟩
++
+⟨
+N
+,
+A
+⟩
+ 
+
+ 
+=
+p
+A
++
+p
+N
++
+2
+Re
+⟨
+A
+,
+N
+⟩
+.
+
+[ As one relation: |Ψ|^2=⟨A+N,A+N⟩ = |A|^2+|N|^2+⟨A,N⟩+⟨N,A⟩ = pA+pN+2Re⟨A,N⟩. ]
+
+Thus
+
+P
+=
+p
+A
++
+p
+N
++
+2
+Re
+⟨
+A
+,
+N
+⟩
+
+contains an interference term automatically.
+
+Cauchy–Schwarz bounds it:
+
+|
+2
+Re
+⟨
+A
+,
+N
+⟩
+|
+≤
+2
+p
+A
+p
+N
+.
+
+5. Complex numbers encode relational phase
+
+For simple one-dimensional amplitudes write
+
+A
+=
+p
+A
+e
+i
+θ
+A
+,
+N
+=
+p
+N
+e
+i
+θ
+N
+.
+
+Then
+
+P
+p
+A
++
+p
+N
++
+2
+p
+A
+p
+N
+cos
+⁡
+(
+θ
+A
+−
+θ
+N
+)
+.
+
+Only the relative phase
+
+Δ
+θ
+=
+θ
+A
+−
+θ
+N
+
+affects the result.
+
+The absolute phases disappear. What matters is difference.
+
+6. Classical addition appears as a limiting case
+
+If the alternatives become orthogonal,
+
+⟨
+A
+,
+N
+⟩
+=
+0
+,
+
+then the interference term disappears:
+
+P
+=
+p
+A
++
+p
+N
+.
+
+Ordinary addition of probabilities therefore appears naturally when the alternatives are completely distinguishable.
+
+7. The same geometry gives generic uncertainty
+
+For two quantities represented by operators (X) and (Y), define deviations from their expectation values:
+
+Δ
+X
+=
+X
+−
+⟨
+X
+⟩
+,
+Δ
+Y
+=
+Y
+−
+⟨
+Y
+⟩
+.
+
+Apply Cauchy–Schwarz to
+
+Δ
+X
+|
+Ψ
+⟩
+and
+Δ
+Y
+|
+Ψ
+⟩
+.
+
+This gives the Robertson–Schrödinger uncertainty relation, including
+
+ 
+σ
+X
+σ
+Y
+≥
+1
+2
+|
+⟨
+[
+X
+,
+Y
+]
+⟩
+|
+.
+
+Thus uncertainty is already latent in the same inner-product geometry.
+
+To obtain the specifically quantum-mechanical position–momentum relation,
+
+ 
+Δ
+x
+,
+Δ
+p
+≥
+ℏ
+2
+,
+
+we must additionally establish
+
+[
+x
+,
+p
+]
+=
+i
+ℏ
+.
+
+That belongs to the later physics, not to the core metaphysical argument.
+
+So the proposed sequence is:
+
+fundamental probability
+
+↓
+
+relational possibilities
+
+↓
+
+inner-product geometry
+
+↓
+
+Cauchy--Schwarz
+
+↓
+
+superposition and interference
+
+↓
+
+generic uncertainty
+
+and only then:
+
+What additional principles recover quantum physics itself?
+
+
+
+
+
