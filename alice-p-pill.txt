@@ -1,0 +1,1161 @@
+Alice and the Pills
+A Perceptive Descent into whirls of Emptiness and Fullness
+
+
+
+Alice is offered two pills.
+
+One is marked P.
+
+The other is marked NP.
+
+She is not told whether the second means Not Process, Non-Process, or something more computationally troublesome. Alice takes P.
+
+P stands for Process, though the letter also recalls p, momentum. The suggestion is simple: stop asking first where a thing is, yet alone what it is ultimately made off, and ask instead how it moves, changes, persists and relates.
+
+Nothing vanishes when Alice swallows it. The table remains a table; the horse remains a horse. But solidity becomes provisional. A table can be redescribed as a continuing balance of forces and materials. A cell as metabolism and regulation. A horse as an enduring organization of body, movement, memory and environment. Alice herself as perception, retention, expectation and response.
+
+The recurring move is:
+
+form
+→
+process
+.
+
+Physics has already performed something like this. Position x is one way of describing a quantum system, momentum p another. Relativity binds energy and spatial momentum into four-momentum,
+
+ 
+p
+μ
+=
+(
+E
+c
+,
+p
+)
+,
+
+while action joins their spatial and temporal aspects:
+
+S
+=
+p
+⋅
+x
+−
+E
+t
+.
+
+Quantum phase then carries this action as
+
+e
+i
+S
+/
+ℏ
+.
+
+Alice does not infer that cells, minds or cultures secretly obey the same equations. She notices only the methodological precedent: some physical descriptions become more revealing when apparently solid things are recast as movement, relation and action.
+
+That is enough to send her down the rabbit hole.
+
+The first surprise is that Emptiness does not mean absence. A whirlpool exists, yet no particular molecule of water is the whirlpool. Its identity persists through the movement rather than through fixed material constituents. Cells, organisms and selves may be similar in this respect.
+
+To say that a form is empty is therefore not to deny its reality. It is to deny that its identity belongs to it entirely in isolation.
+
+Emptiness: no form has an independent essence.
+
+Alice tries to get beneath the process and finds another process. She changes scale and finds relations, flows and transformations where she expected a final object. Perhaps there is no smallest solid thing waiting at the bottom of the rabbit hole.
+
+But the disappearance of the object does not leave a blank space. It opens a wider field.
+
+At some chosen grain there may be relatively stable forms
+
+O
+1
+,
+O
+2
+,
+…
+,
+O
+n
+.
+
+They persist for a while, transform into one another, combine or cease to be recognisable. Their possibilities can be written as transitions:
+
+P
+(
+O
+j
+|
+O
+i
+)
+.
+
+What Alice had called an object now looks like a relatively stable region within a much larger space of possible transformations.
+
+Here she encounters Fullness.
+
+Fullness: nothing lies outside the relational whole.
+
+The opposition between Fullness and Emptiness begins to collapse. Emptiness says that no form stands alone. Fullness says that every form belongs to a larger relational field. A thing may be empty precisely because it is full of relations.
+
+“That is full, this is full,
+From that fullness comes this fullness,
+If you take away this fullness from that fullness,
+Only fullness remains.” [1]
+
+The Upanishadic intuition of fullness need not therefore mean an enormous substance containing smaller substances. It can mean that differentiation never exhausts the whole. Buddhist emptiness approaches from the opposite direction: none of those differentiations is self-sufficient.
+
+One says:
+
+Nothing is outside the whole.
+
+The other:
+
+Nothing within the whole stands alone.
+
+Bohm adds another possibility: perhaps what underlies both descriptions is not substance at all but holomovement.
+
+Alice changes size again.
+
+Something that looked like an object at grain g can dissolve into process:
+
+object
+g
+→
+process
+g
+.
+
+Yet that same process may become a relatively stable form at another grain:
+
+process
+g
+→
+object
+g
++
+1
+.
+
+The journey no longer looks like
+
+large things
+→
+smaller things
+→
+smallest thing
+.
+
+It looks instead like
+
+form
+→
+process
+→
+new form
+→
+new process
+→
+⋯
+
+Alice stops asking which level is the real one. The better question is what, if anything, remains structurally recognisable as she changes grain.
+
+Perhaps it is not the object but the relation.
+
+Let A stand for what is currently arising and N for what is retained, slower or background. Then the important quantity might be their difference,
+
+A
+−
+N
+,
+
+their ratio,
+
+ 
+A
+N
+,
+
+or a normalized relation such as
+
+ 
+R
+=
+A
+−
+N
+A
++
+N
++
+ϵ
+.
+
+At one grain, A and N might mean current perception and retained expectation. At another, novelty and memory. Elsewhere, an organism and its environment, or an individual and a culture.
+
+Their interpretation changes. The relational pattern may not.
+
+Forms are empty; relational patterns may persist.
+
+Alice then notices that a world of discrete forms does not require the underlying movement itself to be discrete.
+
+Suppose some process evolves smoothly:
+
+x
+(
+t
++
+Δ
+t
+)
+=
+U
+Δ
+t
+[
+x
+(
+t
+)
+]
+.
+
+Alice, however, sees it only through a chosen grain. She divides the flow into the relatively stable forms
+
+O
+1
+,
+O
+2
+,
+…
+,
+O
+n
+.
+
+The moment she does this, a probabilistic description becomes natural:
+
+P
+(
+O
+j
+|
+O
+i
+)
+.
+
+The probability may therefore belong to the way a richer process is divided into reified forms rather than to tiny hidden dice underneath the world.
+
+The resulting pattern has an obvious resemblance to quantum mechanics: smooth evolution together with probabilistic readout. Alice does not assume that the Born rule applies universally. She asks whether the broader structure might recur:
+
+smooth process
+→
+grain
+→
+possible forms
+→
+probabilistic actuality
+.
+
+Born’s rule may be one precise realisation of that structure, not necessarily its universal form.
+
+Then time begins to look different as well.
+
+Processes carry traces of what has happened. If Alice observes only what is present, their dynamics may look non-Markovian because the next state depends upon retained history.
+
+Let
+
+A
+t
+=
+what is arising now
+
+and
+
+N
+t
+=
+what the process retains
+.
+
+Then the current state can be enlarged to
+
+X
+t
+=
+(
+A
+t
+,
+N
+t
+)
+.
+
+History has not disappeared. It has become part of the present state.
+
+Becoming can now be written schematically as
+
+ 
+(
+A
+t
+,
+N
+t
+)
+→
+R
+(
+A
+t
++
+1
+,
+N
+t
++
+1
+)
+.
+
+This suggests a different picture of A-time. The present need not be a spotlight moving along a completed sequence of events. It can instead be continually produced from what is arriving and what remains:
+
+retained past
++
+emerging possibility
+→
+new present
+.
+
+Energy generates physical evolution. Entropy supplies an arrow. Memory leaves traces. A meaningful present becomes possible because some difference between now and before remains available within the process.
+
+Eventually Alice realises that she may not have been analysing reality directly at all.
+
+What she has been exploring looks more like Donald Hoffman’s headset.
+
+Space, time, objects, bodies and perhaps even the ordinary self may belong to the interface through which experience takes form. The model therefore does not yet explain the observer.
+
+It looks more like:
+
+?
+→
+perceptual process
+→
+experienced world
+.
+
+The P-pill can dissolve the icons. It cannot yet tell Alice who is wearing the headset.
+
+That is not a flaw. It is the boundary of the exercise.
+
+Huxley offers another metaphor for the same territory: the reducing valve and the ego-filter. Alice pushes the image one step further.
+
+The doors are made of perception.
+
+Perception may not merely pass through a boundary between self and world. It may help generate the distinctions of inside and outside, subject and object, Alice and Wonderland.
+
+The ego-filter does not simply stand between two independently existing sides. It helps stabilize one side as me and the other as world.
+
+The door makes the doorway.
+
+The Māṇḍūkya Upanishad then gives Alice an unexpectedly old map of changing experiential structure.
+
+There is waking.
+
+There is dreaming.
+
+There is deep sleep.
+
+And there is the fourth quarter.
+
+Waking fixes distinctions into a stable world. Dreaming reveals how easily they can loosen: people, times, places and identities flow into one another without experience simply ceasing. Deep sleep removes the ordinary differentiated scene.
+
+Then the fourth refuses to be classified by the obvious opposition.
+
+Not conscious.
+
+Not unconscious.
+
+Not this.
+
+Not that.
+
+It is not simply a fourth headset setting beside the first three. It calls the classification itself into question.
+
+Alice takes the lesson seriously:
+
+When two opposites appear to exhaust reality, ask whether the opposition itself belongs to the interface.
+
+Object and process.
+
+Self and world.
+
+Conscious and unconscious.
+
+Fullness and Emptiness.
+
+The task is not always to choose a pole. Sometimes it is to inspect the axis.
+
+Eventually Alice (or Mary in her back and white room) turns the P-pill on qualia.
+
+Redness is easily imagined as another inner object:
+
+redness
+.
+
+But if tables, organisms and selves can be treated as processes, perhaps a quale can too.
+
+Instead of something that experience contains, redness could be something experience does.
+
+A qualitative episode might be described schematically as
+
+Q
+t
+=
+f
+(
+A
+t
+,
+N
+t
+,
+…
+)
+.
+
+The question then shifts from
+
+Which physical object produces the mental object called red?
+
+to
+
+What differentiation of experience is occurring when red is experienced?
+
+That does not solve the hard problem from physicalist premises. It declines to make those premises the starting point. Qualia become transient forms of conscious process rather than mental atoms waiting to be manufactured from non-conscious matter.
+
+Then the headset performs its strangest trick.
+
+It begins to notice itself.
+
+An organism ordinarily detects changes in the world. But suppose a neurotoxin changes the machinery through which the world is being perceived. Survival may now depend upon recognizing something more subtle:
+
+The world has not merely changed. My way of experiencing it has changed.
+
+The relation itself shifts:
+
+R
+t
+→
+R
+t
+′
+.
+
+This is where the Neurotoxic Bootstrap Hypothesis enters. Selection may favour organisms capable of detecting not only changes in perception but changes in the perceptual machinery.
+
+The filter begins to monitor the filter.
+
+Process becomes reflexive.
+
+A self may emerge partly as the relatively stable reference against which those alterations are noticed.
+
+Even then, the wearer of the headset remains unexplained. Alice has perhaps found a way to describe self-monitoring experience without yet explaining why there is an experiencer at all.
+
+By now she has travelled surprisingly far.
+
+Objects have become processes. Processes have become relations. Relations have opened into possible transitions. Probability has appeared where continuous movement is divided into forms. Memory has entered the present as retained history. The perceived world has become a headset. The boundary between subject and object has turned out to be something perception itself may help construct.
+
+And when Alice applies the same operation to experience, even qualia look less like objects and more like temporary differentiations of process.
+
+At every stage, the P-pill performs the same transformation:
+
+form
+→
+process
+.
+
+Emptiness says that no resulting form is final.
+
+Fullness says that no resulting process stands outside the whole.
+
+Bohm’s holomovement suggests that perhaps Alice was never passing through truly separate levels at all. She may have been moving among different abstractions from one undivided movement.
+
+She therefore returns without a theory of everything or an explanation of consciousness.
+
+What has changed is the question.
+
+Instead of:
+
+What is everything made of?
+
+Alice asks:
+
+What is moving, how is it differentiating, and at what grain have I mistaken that movement for a thing?
+
+The P-pill is not an answer. It is a way of loosening the grip of objects long enough to see what else might be there.
+
+And the fourth quarter leaves Alice with one final warning.
+
+Not Process.
+
+Not Substance.
+
+Not Fullness.
+
+Not Emptiness.
+
+Every apparent bottom may be another door.
+
+And the doors are made of perception.
+
+
+Breakout: From Process to Objects
+How does a continuous world of process become the apparently discrete world of things that Alice experiences?
+
+Suppose the underlying movement is continuous:
+
+x
+(
+t
++
+Δ
+t
+)
+=
+U
+Δ
+t
+[
+x
+(
+t
+)
+]
+.
+
+There are no objects yet, only evolving process.
+
+Alice then puts on the perceptual headset—or simply chooses a grain at which to describe what is happening. The continuous process is divided into relatively stable regions:
+
+O
+1
+,
+O
+2
+,
+…
+,
+O
+n
+.
+
+These are the things she calls objects or states.
+
+They need not be fundamental. An object can instead mean:
+
+a process stable enough, at a particular grain and over a particular interval, to be treated as a thing.
+
+Once the process has been divided this way, its evolution can be represented by transition probabilities:
+
+P
+i
+j
+=
+P
+(
+O
+t
++
+1
+=
+O
+j
+∣
+O
+t
+=
+O
+i
+)
+.
+
+Collect them and Alice gets a matrix:
+
+ 
+P
+=
+(
+P
+11
+P
+12
+⋯
+P
+21
+P
+22
+⋯
+⋮
+⋱
+)
+.
+
+A large Pii means the process is likely to remain recognizably the same thing. Persistence becomes a probability of continuing identity rather than evidence for an underlying substance.
+
+The matrix is therefore not the deeper reality replacing the objects. It is another representation: a map of the possible transformations among forms produced at this grain.
+
+This gives Emptiness and Fullness complementary roles.
+
+The individual state Oi is empty: its identity depends upon its relations and possible transformations.
+
+The complete matrix is fuller: it represents not merely what Oi currently appears to be, but the field of things it can become.
+
+Emptiness: the state has no independent essence
+
+Fullness: the relational field includes its possibilities
+
+The thing is empty because its identity extends into the matrix.
+
+But processes have histories
+An ordinary Markov chain assumes that the present state contains everything required to determine probabilities for the next:
+
+P
+(
+O
+t
++
+1
+∣
+O
+t
+,
+O
+t
+−
+1
+,
+…
+)
+=
+P
+(
+O
+t
++
+1
+∣
+O
+t
+)
+.
+
+Living and experiential processes rarely look like this. What happens now depends upon what has been retained from before.
+
+Alice therefore splits the current process into two relational aspects:
+
+A
+t
+=
+arising/current
+,
+
+N
+t
+=
+retained/background
+.
+
+The visible At sequence can now be history-dependent:
+
+P
+(
+A
+t
++
+1
+∣
+A
+t
+,
+A
+t
+−
+1
+,
+…
+)
+.
+
+But the history can be folded into the present by enlarging the state:
+
+X
+t
+=
+(
+A
+t
+,
+N
+t
+)
+.
+
+Then:
+
+P
+(
+X
+t
++
+1
+∣
+X
+t
+)
+
+can once again have Markov form.
+
+Memory has not disappeared. Memory has become part of the state. Not Background.
+
+What may determine the transition is not A or N independently, but their relation.
+
+Let
+
+A
+t
+=
+the arising/current process
+,
+
+and
+
+N
+t
+=
+the retained/background process
+.
+
+Their normalized difference is
+
+ 
+R
+t
+=
+A
+t
+−
+N
+t
+A
+t
++
+N
+t
++
+ϵ
+.
+
+When At and Nt are closely aligned,
+
+R
+t
+≈
+0.
+
+When the arising process departs from what has been retained,
+
+|
+R
+t
+|
+
+grows.
+
+The transition matrix can therefore be conditioned on this relation:
+
+P
+i
+j
+=
+P
+(
+O
+t
++
+1
+=
+O
+j
+∣
+O
+t
+=
+O
+i
+,
+R
+t
+)
+.
+
+The important point is that Rt does not itself define the next object. It records the degree and direction of departure between current and retained process, which changes the probabilities of the possible next forms.
+
+Thus:
+
+(
+A
+t
+,
+N
+t
+)
+→
+R
+t
+→
+P
+i
+j
+→
+O
+t
++
+1
+.
+
+History enters through Nt; novelty enters through At; their difference reshapes the probability distribution over what can become actual next.
+
+This gives Alice a possible bridge:
+
+continuous movement
+→
+current/retained relation
+→
+grain
+→
+possible forms
+→
+probability matrix
+
+Taking the P-pill dissolves the object into process.
+
+Taking a grain turns the process back into objects.
+
+The matrix records the perception—and the usefulness—of doing so.
+
+
+Physics offers a particularly striking example. Gluons are normally described as carriers of the strong force, yet because they interact with one another they can bind into a new apparently particle-like object: a glueball. Recent BESIII results provide strong evidence that X(2370)X(2370) is such a glueball-dominated state. What looks downward like interacting force carriers looks upward like a thing—with properties, including mass, belonging to the organized whole. Alice need not even leave physics to find processes becoming objects.
+
+Alice might have hoped that dissolving objects into continuous process would finally put her on firm ground. The new proposed Navier–Stokes “singularity blow-up” solution offers an unexpected warning. A continuous model can generate its own singularity: smooth process need not remain smooth. Singularities are no longer merely the exotic property of black holes; they can arise in the mathematics used to describe ordinary fluids. Perhaps a singularity is not the place where reality ends, but where a grain of description does. Alice may simply have to take P again.
+
+Thanks for reading,
+
+Andre with Chat-GPT-5.6 Sol.
+
+September 2026
+
+Appendix: Alice Travels Up
+So far Alice has mostly travelled downward.
+
+She takes the P-pill and watches apparently solid things dissolve:
+
+object
+→
+process
+→
+relation
+.
+
+
+
+A table becomes forces and materials. A cell becomes metabolism and regulation. A self becomes perception, retention, expectation and response.
+
+This is the direction of Emptiness:
+
+no form stands alone
+.
+
+But Alice can also travel upward.
+
+Then the movement reverses:
+
+relations
+→
+coordinated process
+→
+new form
+.
+
+A whirlpool is the simplest example. Viewed downward, the whirlpool dissolves into moving water. Viewed upward, sufficiently coordinated water flow becomes a whirlpool.
+
+The whirlpool is neither fundamental nor unreal.
+
+It is a process that has become stable enough, at a particular grain and over a particular interval, to be treated as a thing.
+
+So perhaps:
+
+an object is a process that has become predictively stable enough to deserve a name
+.
+
+The same move can be repeated.
+
+Neural processes become coordinated perceptual states. Perceptual states participate in an organism. Organisms participate in conversations. Conversations become institutions, traditions and cultures.
+
+At every step, many lower-grain states may collapse into one useful higher-grain description:
+
+x
+1
+,
+x
+2
+,
+…
+,
+x
+n
+→
+O
+g
++
+1.
+{
+x
+1
+,
+x
+2
+,
+…
+,
+x
+n
+}
+→
+O
+g
++
+1
+.
+
+The higher-level object is not merely the sum of its constituents:
+
+ 
+O
+g
++
+1
+≠
+∑
+i
+O
+g
+i
+.
+
+Its identity lies in the organisation of their relations.
+
+The probability matrix appears again. Once a higher grain has been chosen, its relatively stable forms have their own transition structure:
+
+P
+i
+j
+(
+g
++
+1
+)
+=
+P
+(
+O
+j
+(
+g
++
+1
+)
+∣
+O
+i
+(
+g
++
+1
+)
+)
+.
+
+The object is useful because its future can be predicted without tracking every lower-level detail.
+
+Going upward is therefore partly an act of compression:
+
+many possibilities
+→
+one metastable form
+.
+
+But compression does not merely discard detail. It can reveal regularities that do not appear clearly from below.
+
+This is where Fullness enters the widening framework.
+
+Fullness does not mean that the higher-level object is more real than the processes beneath it. Nor does it mean that there is some final cosmic object waiting at the top.
+
+It means that each apparently local form participates in a wider field of relations, possibilities and transformations.
+
+At one grain, Alice sees:
+
+O
+i
+.
+
+Step back, and its identity opens into:
+
+{
+P
+(
+O
+j
+|
+O
+i
+)
+}
+.
+
+Step back again, and that entire transition structure becomes part of a still larger organisation.
+
+So:
+
+Emptiness: the object does not contain its own explanation
+
+while
+
+Fullness: its relations extend beyond the boundary by which it was named
+.
+
+This is the same Fullness Alice encountered earlier in the probability matrix. The individual state is only a partial view; the larger relational field contains not merely what it is, but what it can become.
+
+And even that field is grain-dependent.
+
+There is always another possible enlargement:
+
+P
+(
+g
+)
+→
+P
+(
+g
++
+1
+)
+→
+P
+(
+g
++
+2
+)
+→
+⋯
+
+unless the sequence eventually closes back on itself.
+
+Fullness therefore belongs less to any particular level than to the possibility that nothing is finally outside the relational whole.
+
+Bohm’s holomovement gives this a process interpretation. The grains need not be separate worlds stacked one above another. They may be different abstractions from one undivided movement.
+
+The headset gives it another interpretation. A higher grain is not necessarily a closer view of reality-in-itself. It may simply be a broader and more useful organization within perception.
+
+So Alice must resist a new temptation: having dissolved the little objects below, she must not reify the larger wholes above.
+
+A culture is not a super-object.
+
+A mind is not a super-object.
+
+A probability matrix is not a super-object.
+
+Each is another useful stabilisation within the journey.
+
+The A/N relation may recur across these levels.
+
+At one grain:
+
+A
+−
+N
+
+might describe a sensory mismatch.
+
+At another: It might describe present behaviour against retained habit.
+
+At another: It might describe a new social event against cultural memory.
+
+The contents change, but the relational pattern may survive.
+
+A dynamic relation at one grain can even become part of the retained background of the next:
+
+R
+g
+→
+stable pattern
+→
+N
+g
++
+1
+.
+
+What was movement becomes memory.
+
+What was relation becomes structure.
+
+So Alice’s journey is bidirectional:
+
+↓
+ 
+Emptiness
+↑
+ 
+Fullness
+.
+
+Downward, every boundary can be opened.
+
+Upward, every local process can be situated within a wider field.
+
+Neither direction reaches a final substance.
+
+Instead Alice finds a rhythm:
+
+local form
+↔
+relation
+↔
+wider organization
+.
+
+What looks like decomposition from one grain is composition from another.
+
+Emptiness prevents Alice from mistaking the local form for the whole.
+
+Fullness prevents her from mistaking its dissolution for nothingness.
+
+And not this; not that prevents her from turning either insight into the final answer.
+
+Perhaps this is why the rabbit hole never really has a bottom—or a top.
+
+Alice can always take P again if it’s all fully open source. Or she could always try NP.
+
