@@ -5,7 +5,7 @@ Thoughts on reading Gross-Berg’s opus magnum
 
 *An engineer’s walk from adaptive memory to a brain that produces, receives—and describes itself.*
 
-I began with a small equation in Stephen Grossberg’s account of adpative memory. I ended up imagining a mill that might contain its own description, and wondering where I was standing while I imagined it.
+I began with a small equation in Stephen Grossberg’s account of adaptive memory. I ended up imagining a mill that might contain its own description, and wondering where I was standing while I imagined it.
 
 Reading *Conscious Mind, Resonant Brain*, I kept trying to turn the diagrams into something I could see working. As an engineer, I am comfortable with differential equations. I have also spent enough time staring at phase equations to suspect that familiarity with the symbols is only one kind of understanding. Sometimes I need a pendulum, a trace, or a surface that moves.
 
@@ -1461,7 +1461,7 @@ Thanks for reading. My question for Leibniz would be what it really means to ent
 
 **My hypothesis is that some coordinated activity in a learning system represents the relative credibility of alternatives, and that its reorganisation under evidence approximates Bayesian updating. In square-root probability coordinates, this updating becomes a change of orientation. Coupled to retained structure and drive-dependent action, it could describe one functional aspect of a self: maintaining an orientation that can change through learning.**
 
-The derivation in the appendix establishes a mathematical correspondence. The hypothesis adds a claim about what the mill’s activity could implement. Its resemblance to the amplitude geometry of quantum mechanics is suggestive, but the probability interpretation here stands on classical Bayesian grounds. I leave the further connection to felt experience open.
+The derivation in the appendix establishes a mathematical correspondence. The hypothesis adds a claim about what the mill’s activity could implement. Its resemblance to the amplitude geometry of quantum mechanics is suggestive, but the probability interpretation here stands on classical Bayesian grounds. I leave the further connection to felt experience open. Note this is not Grossberg’s ART and he may disagree strongly with the Bayesian premise.
 
 Andre with ChatGPT-6-Astra,
 
