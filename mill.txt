@@ -1,0 +1,1480 @@
+The Big Mill on the Hill
+Thoughts on reading Gross-Berg’s opus magnum
+
+
+
+*An engineer’s walk from adaptive memory to a brain that produces, receives—and describes itself.*
+
+I began with a small equation in Stephen Grossberg’s account of adpative memory. I ended up imagining a mill that might contain its own description, and wondering where I was standing while I imagined it.
+
+Reading *Conscious Mind, Resonant Brain*, I kept trying to turn the diagrams into something I could see working. As an engineer, I am comfortable with differential equations. I have also spent enough time staring at phase equations to suspect that familiarity with the symbols is only one kind of understanding. Sometimes I need a pendulum, a trace, or a surface that moves.
+
+Grossberg’s name supplied the hill to climb. Leibniz supplied the mill to find. [He asked what you would see if you were shrunk to a tiny size and went inside a brain: a mill but no intelligence or conscious mind to observe.] The machinery that follows is my construction: a way of thinking with several authors whose theories do not fit neatly inside one another. Each changes what I notice about the machine.
+
+The first component is modest. In Grossberg’s medium-term memory, or MTM, an adaptive gate changes a connection’s effectiveness according to recent activity. An available transmitter resource is depleted through use and replenished over time. A continuing input can therefore produce a changing response. The connection carries a short history in its present condition.[1]
+
+A simple representative equation is
+
+ 
+d
+z
+d
+t
+=
+r
+(
+1
+−
+z
+)
+−
+k
+u
+z
+.
+
+Here (z) is the available resource, scaled between zero and one; (u) is incoming activity; and (r) and (k) control recovery and depletion. More elaborate forms are possible. The important intuition is already visible: use alters the conditions of further use.
+
+Imagine a mechanism receiving small kicks through such a gate. A pendulum makes the movement visible. Damping, recovery and adjustable couplings give us things to inspect. The pendulum adds oscillatory behaviour that this gate equation alone does not provide, but it offers a place to begin assembling the larger machine.
+
+Now let the pendulum write.
+
+Its movement leaves dots on a strip of paper. Move the strip and successive moments become a spatial record. Let the ink fade and older activity gradually loses its influence. Let marks overlap and persistence becomes visible as density. A group of mechanisms can produce a pattern that none produces alone.
+
+The paper helps distinguish several kinds of memory. A fading trace, a depleted gate and a lasting alteration to a connection preserve different aspects of the past. I am not assigning all of them to Grossberg’s MTM. I am giving them separate places in the mill so that their different jobs can be seen.
+
+What interests me most is the next addition: another mechanism reads the paper.
+
+Imagine two machines, each reading the other’s strip and writing in response. Something like Escher’s two hands drawing one another, although here the hands have histories and their marks fade.
+
+A mark excites one pathway and suppresses another. Several readers compete. A pattern may reinforce the conditions that sustain it, while an incompatible pattern unsettles those conditions. Add layers, delays and learning, and the machine’s response to a new input depends on a considerable amount of unfinished activity.
+
+This is my route towards Grossberg’s recurrent matching and resonance. Recognition becomes an event in a continuing negotiation between incoming signals and patterns made available by previous learning. The mill can maintain an interpretation, revise it, or begin a search for another. Grossberg’s account gives these processes far more specificity than my machinery does.[2]
+
+There is no tiny reader hidden behind the automated readers. Reading means that a mark changes the operation of a mechanism. Writing means that its activity leaves something able to affect another operation. Nothing requires all the strips to converge on a final screen.
+
+The arrangement acquires another dimension when I add drive.
+
+A hungry mill becomes more responsive to the marks associated with roast chickens and hamburgers. The same surroundings acquire a different practical organisation. Food-related patterns attract attention and help direct action. Grossberg’s cognitive-emotional models offer an account of how object representations, value and motivational feedback can participate in this process.[3]
+
+But I should be able to point to the hunger input and ask what determines it. If I turn a dial labelled *drive*, I have modelled consequences of hunger while leaving the source of the signal outside that part of the model. The mill is useful partly because it makes such boundaries conspicuous.
+
+Now allow its traces to concern other people, and eventually the organism itself. Some distinguish what another person is likely to do. Others record consequences of the mill’s own actions. The machinery begins to contain distinctions about the beings participating in its operation.
+
+This is where I find the cybernetic tradition, including Heinz von Foerster, helpful. It encourages me to ask how an observer participates in the distinctions being made.[4] The reader of a trace has a structure and a history too. Its way of reading belongs in the account.
+
+At this point, invite Leibniz inside.
+
+In section 17 of the *Monadology*, he imagines enlarging a machine capable of thought and perception until we can enter it like a mill. Inspecting its interior, we would find components acting on one another. He argues that this inspection would not reveal an explanation of perception.[5]
+
+I think he would be surprised by this visit. Our mill retains histories, changes its own responses and contains representations of its visitor. It may eventually produce a description of Leibniz walking through the mill looking for perception.
+
+Yet he can still ask where the experiencing is.
+
+The surprise matters, but it does not settle the argument. I can increasingly understand how something might be recognised, remembered or selected without finding that I understand why this should feel like anything.
+
+There are fair objections to my hesitation. Perhaps I have left out a crucial mechanism. Perhaps scale, organisation or interacting timescales make a difference that a handful of pendulums cannot convey. Perhaps the analogy misrepresents the equations. A failure of my imagination would be weak evidence against Grossberg’s theory.
+
+Those possibilities belong inside the essay. I want the mill to help locate the uncertainty. Is something missing from my construction, from the model it illustrates, or from the relationship between a process description and experience?
+
+The next change makes the machinery stranger again.
+
+Replace some of the paper with drums.
+
+Neuroscience increasingly allows us to examine activity as spatially organised waves: moving fronts, standing patterns, spirals and changing relations of phase. In awake marmosets, the timing and position of spontaneous cortical waves predicted the response to faint visual targets and the likelihood of detecting them.[6] A 2026 study using direct human recordings found different travelling-wave patterns associated with memory processes and even particular remembered items.[7]
+
+These findings suggest a richer image than messages passing between otherwise stationary boxes.
+
+Imagine sand on coupled, vibrating membranes. A local kick contributes to a larger pattern. That pattern alters the conditions under which another mechanism responds. An input that does little at one moment can have a substantial effect when the receiving mechanism is close to threshold.
+
+The sand makes the motion visible. If its distribution also changes the membrane’s behaviour, the trace participates in the next response. This is an extension of the thought experiment, not a proposed anatomical description of cortex.
+
+The comparison that comes to mind is a musician and an orchestra. We need to understand the instruments, but also the timing of their entries, the sustained relations and the pauses. Coordination includes differences in phase. An orchestra playing everything in unison would lose much of what makes it an orchestra.
+
+Nor does a cortical wave necessarily require an additional fast carrier above neural signalling. Collective propagation can emerge through existing neural connections. The marmoset study found speeds consistent with conduction along local cortical axons. There is also experimental evidence that extracellular electric fields can influence neurons through ephaptic coupling; establishing its contribution to a particular wave is a further question.[6][8]
+
+Computers can simulate these dynamics, and some hardware (our mill) can implement them physically. What changes here is the emphasis of the image. The mill becomes a distributed medium whose ongoing state helps determine what an incoming event can do.
+
+My intuition moves towards phase transitions: a system whose collective organisation changes its susceptibility to small differences. Experiments linking cortical criticality to sensory dynamic range give that intuition somewhere to meet evidence.[9] Still, a neuron approaching threshold and a network approaching a collective transition are distinct claims.
+
+The relationship to consciousness also needs more than the presence of waves. Anaesthesia can preserve or strengthen some oscillations while disrupting others and their relation to firing.[10] The question concerns the organisation and consequences of the activity. A drum vibrating is a beginning, not an answer about experience.
+
+The coupled drums make another possibility visible. Each is a receiver of the others.
+
+Every local mechanism encounters activity generated elsewhere, selectively responds, and contributes something back. Its tuning determines what affects it. Its history changes that tuning. Production and reception are already intertwined within the machine.
+
+That overlap gives me a way into Aldous Huxley’s reducing valve. In *The Doors of Perception*, Huxley proposes that the brain and nervous system narrow a wider Mind at Large into what is useful for an organism’s survival.[11]
+
+Suppose I temporarily read the mill that way. Its gates, competitive pathways and drives regulate what becomes available. Hunger tunes it towards one range of possibilities; another condition tunes it differently. The apparatus begins to resemble a receiver working across several bands.
+
+This interpretation has to accommodate the mill’s transformations too. Reading a trace can change it. An incomplete pattern can evoke a completion. Reception here is an active process shaped by what the apparatus has become.
+
+The stronger Huxleyan possibility remains a supposition. Receiving signals from other brain areas gives us no automatic warrant for receiving consciousness from a larger reserve. That further proposal would need an account of the reserve and of the coupling. Nevertheless, the receiver image makes me reconsider an assumption that the producer image can leave unnoticed: where have I placed the source of what is experienced?
+
+It also makes the boundary of the machine less obvious. What belongs to the receiver, and what belongs to what it receives?
+
+My own earlier explorations approached this from a narrower direction. I wanted to describe a system with a core, alternatives and actions: something able to change its orientation while maintaining enough continuity to remain a learner.
+
+I called the larger process inertial variation, selection and retention. Variation brings forward hypotheses, with its movement influenced by the system’s existing organisation. Selection changes their relative weight. Retention carries consequences into the next encounter. My R-rule explored a geometric description of the updating, while the Chevron experiments explored mechanisms for combining faster adaptation with slower retention.
+
+The mill gives these ideas places to operate. Its traces preserve provisional alternatives. Changes in orientation affect which become influential. Its couplings and slower adjustments retain some of what happens. Generating a new hypothesis and reweighting existing hypotheses remain separate jobs.
+
+This leaves room for connections to Friston’s active inference, where possible actions are assessed in relation to preferred outcomes and the information they may provide.[12] The mill can act to obtain food or to discover whether food is there. Desire matters to the action without automatically making the desired state more credible.
+
+The geometry became more precise during the dialog from which this essay developed. An uncertainty factor in my earlier R-rule turned out to have a direct interpretation in angular Bayesian updating. It is worth opening one panel of the mill to see it.
+
+Mathematical breakout: an orientation becomes a probability
+Take two hypotheses, (H_1) and (H_0), with probabilities (p) and (1-p). Use orthogonal unit vectors (e_1) and (e_0) to represent the alternatives, and encode the belief state as
+
+ 
+v
+=
+p
+e
+1
++
+1
+−
+p
+e
+0
+=
+cos
+⁡
+ϕ
+e
+1
++
+sin
+⁡
+ϕ
+e
+0
+,
+0
+<
+ϕ
+<
+π
+2
+.
+
+
+
+The vector has unit length. Its orientation determines the probabilities: 
+
+p
+=
+cos
+2
+⁡
+ϕ
+.
+
+With more hypotheses, square-root probability vectors occupy a region of a higher-dimensional sphere. This construction belongs to established information geometry.[13]
+
+An observation (y) supplies likelihoods (L_1 = P(y | H_1)) and (L_0 = P(y | H_0)). Assume both are positive. Bayesian updating gives
+
+ 
+p
+′
+=
+p
+L
+1
+p
+L
+1
++
+(
+1
+−
+p
+)
+L
+0
+.
+
+We can therefore calculate a new angle and represent the update as a rotation from the prior orientation to the posterior orientation.
+
+To see the dynamics, introduce a parameter (s) that gradually incorporates this one observation:
+
+ 
+p
+(
+s
+)
+=
+p
+(
+0
+)
+L
+1
+s
+p
+(
+0
+)
+L
+1
+s
++
+[
+1
+−
+p
+(
+0
+)
+]
+L
+0
+s
+.
+
+At (s=0) we have the prior; at (s=1), the posterior. This parameter measures evidence assimilation, not necessarily physical time. Differentiating gives
+
+ 
+ 
+d
+p
+d
+s
+=
+p
+(
+1
+−
+p
+)
+log
+⁡
+L
+1
+L
+0
+.
+
+Using 
+
+p
+=
+cos
+2
+⁡
+ϕ
+,
+
+we obtain
+
+ 
+ 
+ 
+d
+ϕ
+d
+s
+=
+−
+1
+2
+p
+(
+1
+−
+p
+)
+log
+⁡
+L
+1
+L
+0
+.
+
+The factor (sqrt{p(1-p)}) appeared in my R-rule as an uncertainty-dependent gain. Here it follows from expressing Bayesian change as angular motion. The evidence supplies its direction and strength. For a fixed likelihood ratio, angular speed is greatest at intermediate belief.
+
+For example, a prior of (p=0.5), followed by evidence four times as likely under (H_1), becomes (p’=0.8). The angle moves from (45°) to approximately (26.6°).
+
+This tightens the probability interpretation without establishing that the entire R-rule is Bayesian. Its particular drive and constraint terms would still need a specified relationship to evidence or action. The inverted-U shape also recalls curves in Grossberg’s work, but timing, arousal and belief probability are different horizontal axes. A resemblance of curves is an invitation to investigate a mapping.
+
+For the simplest geometric version of a preserved core, write (psi = c + v), where (c) is scalar. A unit rotor gives
+
+ψ
+′
+=
+R
+ψ
+R
+~
+=
+c
++
+R
+v
+R
+~
+.
+
+The scalar remains unchanged while the belief vector turns. Probabilities are read from the vector’s components, separately from the scalar. Giving that invariant a meaningful role in the agent remains a modelling task: an unchanged number alone does not establish an identity.
+
+No connection to quantum mechanics is needed. The result concerns classical probabilities expressed geometrically. Nor have we shown that a wave crossing cortex follows this trajectory. We would need to specify how a population pattern encodes the alternatives and how its changes implement the update.
+
+**End of breakout.**
+
+Back in the mill, the paper might now curve around a sphere. Its current orientation represents a distribution over alternatives; the marks preserve something of the path by which it arrived there. Two alternatives require only a quarter-circle, but the sphere is a useful image for a richer set of possibilities.
+
+This is a different use of geometry from the physical shape of the drums. One describes a space of beliefs; the other describes a medium in which activity occurs. An eventual model would need to connect them. For now, each helps me see a different aspect of the process.
+
+Michael Levin’s work provides a neighbouring question: which capacities associated with cognition can be investigated across different kinds and scales of organisation? His framework includes adaptive responsiveness, learning, preferences and goal-directed activity.[14] My selection is smaller. I am looking at continuity, alternatives and action, through the habits of an engineer who wants to see how something could work.
+
+That is enough to keep the mill occupied. It does not yet tell me why any of its activity should be experienced.
+
+David Bohm offers a further change of viewpoint.
+
+His account of an undivided whole suggests treating apparently separate things as relatively stable forms within a continuing process. In his 1990 discussion of mind and matter, he proposes participation as a central relationship. He also uses a radio receiver and the reading of a printed page to illustrate active information: form guides activity whose energy comes from the receiving system.[15]
+
+I find these examples close to the machinery I have been imagining. But active information does not itself distinguish a conscious process from an ordinary guidance mechanism. Bohm’s larger proposal remains something to investigate.
+
+In his discussions of thought, he also treats much of our thinking as conditioned activity involving memory, feeling and bodily response, while distinguishing creative intelligence from these accumulated patterns.[16] The distinction keeps open a question about the capacity to perceive a new relationship, including one that changes how the machinery itself is understood.
+
+Here is my version of the turn. The mill, the signals reaching it, the landscape and the visitor belong within the account. We can draw boundaries around particular mechanisms for particular purposes, while asking what those boundaries leave out. A producer and a receiver may describe different aspects of participation in the same larger process.
+
+Calling this process a whole supplies no missing mechanism by itself. What interests me is the change in the questions. I began by asking what the mill makes. Then I asked what it admits. Now I am asking how I came to separate the mill from what sustains and encounters it.
+
+There is one more trace to feed into the readers: this account of the mill.
+
+Hofstadter’s strange loop becomes relevant when a system’s representations include itself. He also uses Escher’s mutually drawing hands (and my use of the same image is a vague remembered resonance) as an example and allows that representations of selves can also be carried within other people.[17]
+
+In this case, the loop includes me.
+
+I describe a mechanism. An LLM in a dialog reorganises my description. I recognise a useful connection, object to a suggestion, or discover that I have been using one word for two different things. The next description changes. It returns to influence what I notice in Grossberg’s magnum opus book and what I imagine adding to the mill.
+
+The written trace participates in the process it describes. When the trace includes Andre constructing a model with an LLM, it also includes a description of that participation.
+
+This does not require us to assign experience to the LLM, or to regard the conversation as a new conscious subject. There is already a conscious person participating, and a concrete process through which descriptions alter subsequent descriptions and actions. Its organisation is worth examining in its own right.
+
+My interest remains in what it feels like to encounter a new possibility. I can call that a change of orientation, even give one aspect a geometry, while knowing that the description leaves something to be understood.
+
+As an engineer, I marvel at the organisation we are beginning to see: local events and distributed patterns, persistence and revision, individual activity and collective timing. I also marvel at the fact that this organisation is involved in my capacity to marvel at it.
+
+Leibniz is still somewhere inside, asking his question. The drums continue to move. Another mark appears on the paper.
+
+It is a description of the visitor.
+
+
+Sources and connections
+1. Stephen Grossberg and Don Seidman, [*Neural Dynamics of Autistic Behaviors: Cognitive, Emotional, and Timing Substrates*](https://sites.bu.edu/steveg/files/2016/06/GroSei2006PsychRev.pdf) (2006), discussion of habituative transmitter gates. The equation in this essay is a simplified, rescaled recovery–depletion model.
+
+2. Stephen Grossberg, *Conscious Mind, Resonant Brain: How Each Brain Makes a Mind* (Oxford University Press, 2021), the starting point for this essay. For recurrent matching and its component mechanisms, see also [Grossberg’s ART overview](https://www.scholarpedia.org/article/Adaptive_resonance_theory).
+
+3. Stephen Grossberg, [*Desirability, availability, credit assignment, category learning, and attention*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7058233/) (2018). For conditioning and the inverted-U dependence on stimulus timing, see [Grossberg and Levine (1987)](https://sites.bu.edu/steveg/files/2016/06/GroLevine1987AppliedOptics.pdf).
+
+4. Heinz von Foerster, [*Understanding Understanding: Essays on Cybernetics and Cognition*](https://www.informationphilosopher.com/solutions/scientists/foerster/Foerster_Memory.pdf) (2003), particularly the essays on memory and observing systems.
+
+5. G. W. Leibniz, [*Monadology*, section 17](https://www.andrew.cmu.edu/user/kk3n/80-300/leibniz-monadology.htm) (1714).
+
+6. Zachary W. Davis and colleagues, [*Spontaneous travelling cortical waves gate perception in behaving primates*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7677221/) (2020).
+
+7. Anup Das and colleagues, [*Planar, spiral, and concentric traveling waves distinguish behavioral states in human memory*](https://www.nature.com/articles/s41467-026-71386-z) (2026).
+
+8. Costas A. Anastassiou and colleagues, [*Ephaptic coupling of cortical neurons*](https://www.nature.com/articles/nn.2727) (2011).
+
+9. [*Maximizing Sensory Dynamic Range by Tuning the Cortical State to Criticality*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4666488/) (2015).
+
+10. [*Propofol-mediated loss of consciousness disrupts predictive routing and local field phase modulation of neural activity*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11494327/) (2024).
+
+11. Aldous Huxley, [*The Doors of Perception*](https://mural.uv.es/madelro/thecompletetextofdoorsofperception.html) (1954).
+
+12. Thomas Parr and Karl Friston, [*Generalised free energy and active inference*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6848054/) (2019).
+
+13. Andrew Holbrook and colleagues, [*Nonparametric Fisher Geometry with Application to Density Estimation*](https://proceedings.mlr.press/v124/holbrook20a.html) (2020), for the square-root geometry of probability. The binary angular derivation above applies this representation directly to Bayes’ rule.
+
+14. Michael Levin, [*Technological Approach to Mind Everywhere*](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full) (2022).
+
+15. David Bohm, [*A New Theory of the Relationship of Mind and Matter*](https://dl.icdst.org/pdfs/files/05aaa28b931575ca2e0baeadc5ab0d2c.pdf) (1990).
+
+16. David Bohm, [*The Limitations of Thought*](https://ttfuture.org/wp-content/uploads/esa_bohm_thought.pdf), conversation with Michael Mendizza, transcript published in 1995.
+
+17. Douglas Hofstadter, *I Am a Strange Loop* (2007); see also his [2007 interview with WIRED](https://www.wired.com/2007/03/me-my-soul-and-i/).
+
+Appendix: From Bayesian evidence to a geometric update
+The breakout described a connection between a probability and an orientation. Here I derive it more fully and explain how to use it. The result supplies a precise Bayesian component for the mill and a revised interpretation of the uncertainty factor in my R-rule.
+
+The starting point is an ordinary probability model. Geometry supplies another representation of its dynamics. The derivation does not assume quantum mechanics, nor does it establish that a particular neural circuit implements this rule.
+
+Begin with a question the system can answer.
+Let (H_1) and (H_0) be mutually exclusive, exhaustive hypotheses. For the hungry mill, they might be “food is present” and “food is absent”. Let (D) denote the evidence already incorporated, and write
+
+ 
+(A1)
+p
+=
+P
+(
+H
+1
+∣
+D
+)
+,
+1
+−
+p
+=
+P
+(
+H
+0
+∣
+D
+)
+,
+0
+<
+p
+<
+1.
+
+For a new observation (y), the likelihoods are
+
+ 
+(A2)
+L
+1
+=
+P
+(
+y
+∣
+H
+1
+,
+D
+)
+,
+L
+0
+=
+P
+(
+y
+∣
+H
+0
+,
+D
+)
+.
+
+Assume both are positive. For continuous observations, these can be probability densities evaluated at the observation. The ratio remains the relevant quantity.
+
+A likelihood answers how compatible the observation is with a hypothesis. It is not the probability of the hypothesis itself. The likelihoods must come from a specified observation model, learned from data or otherwise justified. Simply naming two signals “evidence” does not supply that model.
+
+Bayes’ rule gives
+
+ 
+ 
+(A3)
+p
+′
+=
+p
+L
+1
+p
+L
+1
++
+(
+1
+−
+p
+)
+L
+0
+.
+
+Define the log-odds (q), and the log-likelihood ratio (ℓ), using natural logarithms:
+
+ 
+ 
+q
+=
+log
+⁡
+p
+1
+−
+p
+,
+ℓ
+=
+log
+⁡
+L
+1
+L
+0
+.
+
+Dividing the posterior probabilities and taking logarithms yields
+
+ 
+ 
+(A4)
+q
+′
+=
+q
++
+ℓ
+,
+p
+′
+=
+σ
+(
+q
+′
+)
+=
+1
+1
++
+e
+−
+q
+′
+.
+
+Positive (ℓ) favours (H_1), negative (ℓ) favours (H_0), and zero leaves their relative credibility unchanged. This is the simplest exact implementation of the binary update.
+
+For successive observations, use their likelihoods conditional on the history already incorporated. Dropping that conditioning requires an assumption such as conditional independence given the hypothesis. This matters when the mill repeatedly encounters related marks.
+
+Put the probabilities on a circle.
+Choose orthonormal axes e1, e0, each denoting one hypothesis, and define
+
+ 
+(A5)
+v
+=
+p
+e
+1
++
+1
+−
+p
+e
+0
+.
+
+Then 
+
+‖
+v
+‖
+2
+=
+p
++
+(
+1
+−
+p
+)
+=
+1.
+
+We can therefore write
+
+ 
+ 
+(A6)
+v
+=
+cos
+⁡
+ϕ
+e
+1
++
+sin
+⁡
+ϕ
+e
+0
+,
+p
+=
+cos
+2
+⁡
+ϕ
+,
+0
+<
+ϕ
+<
+π
+2
+.
+
+The two alternatives are separate coordinate axes. They are not represented by opposite ends of a single axis, whose squared coordinates would erase that distinction. The positive square roots also remove an unnecessary ambiguity about signs.
+
+This representation has a statistical justification. For a Bernoulli distribution, the Fisher information metric is
+
+ 
+d
+S
+2
+=
+d
+p
+2
+p
+(
+1
+−
+p
+)
+.
+
+Since 
+
+d
+p
+=
+−
+2
+p
+(
+1
+−
+p
+)
+d
+ϕ
+,
+
+it becomes
+
+ 
+(A7)
+d
+S
+2
+=
+4
+d
+ϕ
+2
+.
+
+Thus ordinary angular distance on the unit circle is proportional to Fisher–Rao distance. With this convention, the Fisher–Rao distance between two binary distributions is
+
+2
+|
+ϕ
+1
+−
+ϕ
+2
+|
+.
+
+The factor of two matters when comparing formulas that use a sphere of radius two instead of a unit sphere. The square-root construction is established information geometry.[A1]
+
+Turn one Bayesian update into a continuous path.
+To describe the assimilation of one observation, hold its likelihoods fixed and introduce a parameter (s):
+
+ 
+ 
+(A8)
+p
+(
+s
+)
+=
+p
+0
+L
+1
+s
+p
+0
+L
+1
+s
++
+(
+1
+−
+p
+0
+)
+L
+0
+s
+.
+
+Here (p_0) is the prior for that observation. At (s=0) it is unchanged; at (s=1) it has become the full posterior. Between them lies a specified path through intermediate distributions. Bayes’ rule fixes the endpoint; using likelihood powers is our choice of continuous interpolation.
+
+The odds along this path satisfy
+
+ 
+ 
+p
+(
+s
+)
+1
+−
+p
+(
+s
+)
+=
+p
+0
+1
+−
+p
+0
+
+Consequently,
+
+ 
+ 
+(A9)
+q
+(
+s
+)
+=
+q
+0
++
+s
+ℓ
+,
+d
+q
+d
+s
+=
+ℓ
+.
+
+Because 
+
+d
+p
+/
+d
+q
+=
+p
+(
+1
+−
+p
+)
+,
+
+the probability dynamics are
+
+ 
+ 
+(A10)
+d
+p
+d
+s
+=
+p
+(
+1
+−
+p
+)
+ℓ
+.
+
+Using equation (A6),
+
+ 
+ 
+d
+p
+d
+s
+=
+−
+2
+p
+(
+1
+−
+p
+)
+d
+ϕ
+d
+s
+.
+
+Equating the two expressions and dividing gives
+
+ 
+ 
+ 
+ 
+ 
+(A11)
+d
+ϕ
+d
+s
+=
+−
+1
+2
+p
+(
+1
+−
+p
+)
+ℓ
+=
+−
+1
+2
+p
+(
+1
+−
+p
+)
+log
+⁡
+L
+1
+L
+0
+.
+
+The minus sign follows from choosing 
+
+p
+=
+cos
+2
+⁡
+ϕ
+
+Evidence for (H_1) reduces the angle towards its axis. Using a sine-squared convention would reverse the angular sign while leaving the probability update unchanged.
+
+The square-root factor from the R-rule now has a precise origin. For fixed evidence strength (|ℓ|), angular speed peaks at (p=1/2). The factor is the standard deviation of a Bernoulli variable; it is not itself entropy or a maximum-entropy principle. Its presence does not mean that sufficiently strong evidence cannot change a confident belief.
+
+There is no extra uncertainty multiplier to insert into (A4). Applying the factor again would change the derived rule. It already appears when the log-odds dynamics are expressed in angular coordinates.
+
+Use an exact finite step when implementing the rule.
+For an increment h of the assimilation parameter, the exact update is
+
+ 
+(A12)
+q
+new
+=
+q
++
+h
+ℓ
+,
+p
+new
+=
+σ
+(
+q
++
+h
+ℓ
+)
+,
+ϕ
+new
+=
+arccos
+⁡
+p
+new
+.
+
+Equivalently, directly in angle coordinates,
+
+ 
+(A13)
+tan
+⁡
+ϕ
+new
+=
+tan
+⁡
+ϕ
+e
+−
+h
+ℓ
+/
+2
+.
+
+This follows because 
+
+tan
+⁡
+ϕ
+=
+(
+1
+−
+p
+)
+/
+p
+.
+
+For numerical implementation, log-odds are usually more convenient than tangent values near the endpoints.
+
+For comparison, a small-step Euler approximation would be
+
+ 
+ 
+(A14)
+ϕ
+new
+≈
+ϕ
+−
+h
+2
+p
+(
+1
+−
+p
+)
+ℓ
+.
+
+It agrees to first order in (h), but a large step can overshoot the permitted quadrant. Equation (A12) is just as easy to implement and preserves valid probabilities. The quantity 
+
+p
+(
+1
+−
+p
+)
+ℓ
+
+is a local velocity factor, not the exact finite rotation angle.
+
+If the update is spread over physical time, choose a schedule (s(t)), with 
+
+κ
+(
+t
+)
+=
+d
+s
+/
+d
+t
+≥
+0.
+
+Then
+
+ 
+ 
+ 
+(A15)
+d
+ϕ
+d
+t
+=
+−
+κ
+(
+t
+)
+2
+p
+(
+1
+−
+p
+)
+ℓ
+.
+
+For full assimilation of that one observation, the schedule must satisfy ∫ κ(t) dt = 1 over the update interval. Four steps of size h=1/4 incorporate it once. Four steps of size h=1 incorporate its likelihood four times.
+
+This distinguishes gradual processing from repeated evidence. Continuing to look at the same stored mark does not automatically provide a fresh independent observation.
+
+Stopping at a total weight below one gives a tempered update. It can be an intentional design choice, but it is no longer the full posterior for the original likelihood. Slower assimilation that eventually reaches weight one and permanently down-weighting evidence are different interventions. Neither alone supplies the momentum implied by a stronger notion of inertial variation.
+
+A worked example for the mill.
+Suppose (H_1) means food is present. A cue detector produces a positive signal with probability (0.8) when food is present and (0.2) when it is absent. These are hypothetical sensor characteristics, not empirical estimates.
+
+With prior (p_0=0.5), a positive signal gives
+
+ 
+ℓ
+=
+log
+⁡
+(
+0.8
+/
+0.2
+)
+=
+log
+⁡
+4
+,
+p
+1
+=
+0.5
+×
+0.8
+0.5
+×
+0.8
++
+0.5
+×
+0.2
+=
+0.8
+.
+
+The full rotation is from (45°) to (26.565°), or approximately (-18.435°). The intermediate values are:
+
+| Evidence fraction incorporated, (s) | Probability, (p(s)) | Angle, (phi(s)) |
+
+| 0 | 0.500000 | 45.000° |
+
+| 0.25 | 0.585786 | 40.060° |
+
+| 0.50 | 0.666667 | 35.264° |
+
+| 0.75 | 0.738796 | 30.736° |
+
+| 1.00 | 0.800000 | 26.565° |
+
+The intermediate numbers describe a chosen assimilation path. They do not claim that an actual neuron visits these values.
+
+If a second, conditionally independent reading is negative, its likelihood ratio is (0.2/0.8=1/4). It cancels the first reading’s log-evidence and returns the posterior to (0.5). A second independent positive reading instead gives odds (16:1), hence (p=16/17). Re-reading the first positive result must not be mistaken for that second observation.
+
+Write the change as an R-rule rotor.
+In the Euclidean plane of the two alternatives, let (I=e_1e_0), so (I^2=-1). Define
+
+Δ
+ϕ
+=
+ϕ
+new
+−
+ϕ
+.
+
+The corresponding rotor is
+
+ 
+ 
+(A16)
+R
+=
+exp
+⁡
+(
+−
+Δ
+ϕ
+2
+I
+)
+,
+v
+new
+=
+R
+v
+R
+~
+.
+
+The tilde denotes reversal; for a unit rotor, 
+
+R
+~
+=
+R
+−
+1
+.
+
+The half-angle arises because the action is on both sides of (v). The bivector packages an ordinary real rotation; an imaginary probability is unnecessary.
+
+This specifies the generator required for the Bayesian update. The original R-rule expression involving drive (A), constraint (N), a wedge product and an uncertainty gain must produce this same
+
+Δ
+ϕ
+
+if it is to implement the binary Bayesian rule exactly. Sharing the square-root factor is not enough to establish that equivalence.
+
+For the simplest preserved-core construction, use
+
+ 
+(A17)
+ψ
+=
+c
++
+v
+,
+ψ
+new
+=
+R
+ψ
+R
+~
+=
+c
++
+R
+v
+R
+~
+.
+
+The scalar (c) remains invariant. Read probabilities from the components of (v), not from (c), and do not include (c) in their normalisation. Calling the scalar a core becomes substantively useful only when its value has a specified role in regulation or action. A slowly changing memory structure would need its own learning dynamics.
+
+The inverse of a known rotor undoes that particular rotation. This does not imply that a complete learner, whose updates depend on new observations, changing models and retained history, is automatically time-reversible.
+
+Extend the construction to more alternatives.
+For (n) hypotheses, take (p_i>0), (sum_i p_i=1), and define (x_i=sqrt{p_i}). The vector (x) lies on the positive part of a unit sphere. With (ℓ_i=log L_i),
+
+ 
+ 
+(A18)
+p
+i
+(
+s
+)
+=
+p
+i
+(
+0
+)
+e
+s
+ℓ
+i
+∑
+j
+p
+j
+(
+0
+)
+e
+s
+ℓ
+j
+.
+
+Writing
+
+ 
+ℓ
+¯
+=
+∑
+j
+p
+j
+ℓ
+j
+,
+
+differentiation gives
+
+ 
+ 
+ 
+ 
+(A19)
+d
+p
+i
+d
+s
+=
+p
+i
+(
+ℓ
+i
+−
+ℓ
+¯
+)
+,
+d
+x
+i
+d
+s
+=
+1
+2
+x
+i
+(
+ℓ
+i
+−
+ℓ
+¯
+)
+.
+
+Hypotheses gain weight according to log-evidence relative to the current weighted mean. These are replicator dynamics with the log-likelihoods as fitness values; the connection between Bayesian inference and replicator equations is established.[A2]
+
+The motion stays tangent to the sphere because
+
+ 
+ 
+ 
+ 
+(A20)
+x
+⋅
+d
+x
+d
+s
+=
+1
+2
+∑
+i
+p
+i
+(
+ℓ
+i
+−
+ℓ
+¯
+)
+=
+0.
+
+With (x) and (x’) regarded as unit vectors in geometric algebra, one rotor taking the current state to the updated state is
+
+ 
+ 
+(A21)
+R
+=
+1
++
+x
+′
+x
+2
+(
+1
++
+x
+⋅
+x
+′
+)
+.
+
+The product (x’x) here is the geometric product. Positive square-root vectors are never antipodal, so its denominator is nonzero. This rotor reaches the correct endpoint. For three or more alternatives, the entire evidence-assimilation path need not be the shortest great-circle arc between its endpoints; a changing succession of rotors can follow that path.
+
+For implementation, the exact probability step is simply
+
+ 
+(A22)
+p
+i
+′
+=
+softmax
+i
+(
+log
+⁡
+p
+i
++
+h
+ℓ
+i
+)
+.
+
+Compute this by subtracting the largest log-weight before exponentiating. Retain normalised log-probabilities if very small alternatives must remain representable. This extension reweights a fixed set of hypotheses. Adding hypotheses requires another mechanism and an allocation of prior probability to them.
+
+A minimal implementation.
+The following code keeps binary log-odds as the persistent belief state. It computes the probability and angle as readouts. Keeping (q) matters because a displayed probability can round to zero or one even while the stored log-odds remain finite and revisable.
+
+import math
+
+def read_belief(q):
+
+   “”“Return p, phi in radians, and the square-root vector (H1, H0).”“”
+
+   if not math.isfinite(q):
+
+      raise ValueError(”Use finite log-odds.”)
+
+   correction = math.log1p(math.exp(-abs(q)))
+
+   log_p = -max(-q, 0.0) - correction
+
+   log_not_p = -max(q, 0.0) - correction
+
+   x1 = math.exp(0.5 * log_p)
+
+   x0 = math.exp(0.5 * log_not_p)
+
+   return math.exp(log_p), math.atan2(x0, x1), (x1, x0)
+
+def evidence_step(q, log_L1, log_L0, fraction=1.0):
+
+   “”“Incorporate a specified fraction of one observation’s likelihood.”“”
+
+   if not all(math.isfinite(x) for x in (q, log_L1, log_L0, fraction)):
+
+      raise ValueError(”Inputs must be finite.”)
+
+   if not 0.0 <= fraction <= 1.0:
+
+      raise ValueError(”Use an evidence fraction between 0 and 1.”)
+
+   q_new = q + fraction * (log_L1 - log_L0)
+
+   p, phi, vector = read_belief(q_new)
+
+   return q_new, p, phi, vector
+
+
+q = 0.0 # prior p = 0.5
+
+q, p, phi, vector = evidence_step(q, math.log(0.8), math.log(0.2))
+
+print(p, math.degrees(phi)) # approximately 0.8, 26.565
+To spread this one observation across four processing steps, call `evidence_step` four times with `fraction=0.25`, retaining the returned `q` each time. A record of how much of each observation has been incorporated prevents repeated reading from becoming repeated evidence.
+
+Exactly zero prior probabilities remain zero under ordinary Bayesian updating. Finite log-odds deliberately avoid that commitment in the binary case. If the world can change, introduce a transition model before incorporating the next observation. Probability floors, mixing with a baseline and forgetting are possible engineering choices, but each changes the model or algorithm and should be stated.
+
+Connect belief to drive and action.
+The belief distribution supplies an account of what the mill currently takes to be the case. Drive can enter a separate evaluation of what to do. One simple construction is
+
+ 
+ 
+(A23)
+V
+(
+a
+)
+=
+∑
+i
+p
+i
+U
+(
+a
+,
+H
+i
+;
+d
+)
+,
+
+where (d) denotes drive and (U) specifies the value of an action’s consequences. Hunger can increase the value of obtaining food without directly increasing the probability that food is present. Actual drive-dependent changes in sensor reliability would instead belong in the observation model.
+
+For a deliberately simple example, suppose approaching gives value (B(d)>0) if food is present, incurs cost (C>0) either way, and doing nothing has value zero. Then
+
+V
+(
+approach
+)
+=
+p
+B
+(
+d
+)
+−
+C
+.
+
+An expected-value decision rule approaches when (p>C/B(d)). Hunger can lower that decision threshold while leaving the current belief unchanged. With (p=0.8), (C=2), and (B=10), the approach value is 6; with (B=1), it is (-1.2).
+
+The agent could also choose actions that obtain information. That requires an observation model conditioned on the contemplated action. It opens the connection to active inference, but the expected-value example above is only a simple decision rule, not a derivation of Friston’s framework.
+
+An action can be chosen by maximisation, thresholding, or sampling from a policy. A softmax distribution is continuous; sampling or taking an argmax supplies a discrete action. No mathematical collapse of the scalar core is needed.
+
+In a mill or Chevron implementation, the practical sequence is: define the alternatives; maintain their prior weights; obtain likelihoods for new observations; update the weights; read out the geometry if useful; select an action using the updated beliefs and specified drives; then retain the resulting state and observations. The slower structures can learn the likelihood model and action values, provided their update rules are made explicit.
+
+The mathematical result is therefore narrow enough to implement and substantial enough to matter. A normalised belief state can change through evidence while preserving its geometric norm. Its angular dynamics contain the R-rule’s characteristic uncertainty factor. The further work is to determine what the mill represents, how it learns its models, and which retained structures make its continuing orientation a useful model of a self.
+
+Appendix sources
+[A1] Andrew Holbrook, Shiwei Lan, Jeffrey Streets and Babak Shahbaba, [*Nonparametric Fisher Geometry with Application to Density Estimation*](https://proceedings.mlr.press/v124/holbrook20a.html) (2020). The metric convention and binary derivation are written out explicitly above.
+
+[A2] Tim Genewein and Daniel A. Braun, [*Bio-inspired feedback-circuit implementation of discrete, free energy optimizing, winner-take-all computations*](https://link.springer.com/article/10.1007/s00422-016-0684-8) (2016), for the relationship between evidence-weighted updating, replicator dynamics and circuit implementations. The formulas above are derived directly for the stated likelihood path.
+
+Thanks for reading. My question for Leibniz would be what it really means to enter into his mill.
+
+**My hypothesis is that some coordinated activity in a learning system represents the relative credibility of alternatives, and that its reorganisation under evidence approximates Bayesian updating. In square-root probability coordinates, this updating becomes a change of orientation. Coupled to retained structure and drive-dependent action, it could describe one functional aspect of a self: maintaining an orientation that can change through learning.**
+
+The derivation in the appendix establishes a mathematical correspondence. The hypothesis adds a claim about what the mill’s activity could implement. Its resemblance to the amplitude geometry of quantum mechanics is suggestive, but the probability interpretation here stands on classical Bayesian grounds. I leave the further connection to felt experience open.
+
+Andre with ChatGPT-6-Astra,
+
+September 2026
+
+
+
+
+
+
+
+
+
+
+
+
